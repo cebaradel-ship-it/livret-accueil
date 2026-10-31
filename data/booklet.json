@@ -1144,7 +1144,7 @@
      "address": "Lozari, 20226 Belgodère",
      "phone": "06 38 77 43 19",
      "website": "http://www.autenticorsica.com/",
-     "rating": 5.0,
+     "rating": 5,
      "ratingCount": 73,
      "type": {
       "fr": "Excursions en 4x4",
@@ -1177,7 +1177,7 @@
      "address": "20220 Monticello",
      "phone": "",
      "website": "https://www.corse24.com/tour-de-saleccia-a-monticello-decouvrez-ce-tresor-cache/",
-     "rating": 5.0,
+     "rating": 5,
      "ratingCount": 1,
      "type": {
       "fr": "Site historique",
@@ -1561,7 +1561,7 @@
      "address": "118 RT301 lozari, 20226 Belgodère, France",
      "phone": "06 82 34 33 83",
      "website": "https://www.pouletsrotis.fr/",
-     "rating": 5.0,
+     "rating": 5,
      "ratingCount": 6,
      "type": {
       "fr": "Plats à emporter",
@@ -1732,7 +1732,7 @@
      "address": "M339+6V, 20226 Palasca, France",
      "phone": "",
      "website": "",
-     "rating": 4.0,
+     "rating": 4,
      "ratingCount": 2,
      "type": {
       "fr": "Activité de loisirs",
@@ -1765,7 +1765,7 @@
      "address": "Île de la Pietra, 20220 L’Île-Rousse",
      "phone": "",
      "website": "",
-     "rating": 5.0,
+     "rating": 5,
      "ratingCount": 1,
      "type": {
       "fr": "Site historique",
@@ -2062,7 +2062,7 @@
      "address": "Hameau, Lozari, 20226 Belgodère, France",
      "phone": "04 95 60 32 28",
      "website": "",
-     "rating": 4.0,
+     "rating": 4,
      "ratingCount": 397,
      "type": {
       "fr": "Restaurant",
@@ -2491,5 +2491,6 @@
  },
  "backend": {
   "url": ""
- }
+ },
+ "updatedAt": "2026-10-31T10:36:13.032Z"
 }
