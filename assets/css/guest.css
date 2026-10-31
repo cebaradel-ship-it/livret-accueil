@@ -416,3 +416,7 @@ input,textarea,select{font-size:16px} /* évite le zoom automatique de l'iPhone 
 /* Badge « Powered by Netlify » (offre gratuite) : posé au-dessus de la barre du bas pour ne cacher aucun bouton. */
 #nl-badge-frame{bottom:calc(64px + env(safe-area-inset-bottom,0px))!important}
 @media (min-width:640px){#nl-badge-frame{bottom:86px!important}}
+
+/* Le contenu des pages descend sous la barre du bas et le badge : on garde toujours le dernier élément visible. */
+.app,.page{padding-bottom:calc(132px + env(safe-area-inset-bottom,0px))}
+@media (min-width:640px){.app,.page{padding-bottom:156px}}
