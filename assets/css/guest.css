@@ -412,3 +412,7 @@ input,textarea,select{font-size:16px} /* évite le zoom automatique de l'iPhone 
   .tile .ti .ic{width:calc(var(--mod-icon-size) * 1.35);height:calc(var(--mod-icon-size) * 1.35)}
   .h-title{font-size:calc(var(--title-size) * 2)}
 }
+
+/* Badge « Powered by Netlify » (offre gratuite) : posé au-dessus de la barre du bas pour ne cacher aucun bouton. */
+#nl-badge-frame{bottom:calc(64px + env(safe-area-inset-bottom,0px))!important}
+@media (min-width:640px){#nl-badge-frame{bottom:86px!important}}

@@ -244,3 +244,6 @@ ol.steps-help li{margin-bottom:8px;line-height:1.5}
   .tog i{width:46px;height:26px}.tog i::after{width:20px;height:20px}.tog input:checked+i::after{left:23px}
 }
 @media (min-width:1800px){.wrap{max-width:1760px;grid-template-columns:minmax(0,1fr) 480px}body{font-size:15px}}
+
+/* Badge « Powered by Netlify » (offre gratuite) : à gauche, pour ne pas cacher le bouton « Aperçu ». */
+#nl-badge-frame{right:auto!important;left:0!important}
