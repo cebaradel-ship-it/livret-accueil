@@ -1,0 +1,2519 @@
+{
+ "schema": 1,
+ "languages": {
+  "primary": "fr",
+  "secondary": [
+   "en",
+   "es",
+   "de",
+   "it"
+  ]
+ },
+ "property": {
+  "title": {
+   "de": "Casa Di Lozari",
+   "en": "Casa Di Lozari",
+   "es": "Casa Di Lozari",
+   "fr": "Casa Di Lozari",
+   "it": "Casa Di Lozari"
+  },
+  "subtitle": {},
+  "hostName": "Casa Di Lozari G3",
+  "hostNameHidden": false,
+  "reference": "",
+  "type": "",
+  "address": {
+   "full": "Casa Di Lozari, Mamuglio, Belgodère, France",
+   "displayed": "Résidence para-hôtelière Fleur de Maquis",
+   "complement": {
+    "de": "1. Etage links",
+    "en": "1st floor left",
+    "es": "primer piso izquierda",
+    "fr": "1er étage gauche",
+    "it": "Primo piano sinistro"
+   },
+   "lat": 42.628127,
+   "lng": 9.0141947
+  },
+  "arrivalAfter": "",
+  "departureBefore": "",
+  "season": {
+   "start": "2026-07-26",
+   "end": "2026-10-26"
+  }
+ },
+ "branding": {
+  "logo": "media/logo-a06fd2f7.png",
+  "logoEnabled": true,
+  "avatar": "",
+  "avatarEnabled": false
+ },
+ "contact": {
+  "title": {},
+  "email": "",
+  "phone": "",
+  "whatsapp": "",
+  "url": "",
+  "instagram": "",
+  "facebook": "",
+  "twitter": "",
+  "linkedin": "",
+  "order": [
+   "whatsapp",
+   "phone",
+   "email",
+   "url",
+   "instagram",
+   "facebook",
+   "twitter",
+   "linkedin"
+  ],
+  "pictoSize": "medium"
+ },
+ "emergency": {
+  "enabled": true,
+  "country": "FR",
+  "numbers": [
+   {
+    "label": {
+     "fr": "SAMU",
+     "en": "Medical emergency (SAMU)",
+     "es": "Urgencias médicas (SAMU)",
+     "de": "Rettungsdienst (SAMU)",
+     "it": "Emergenza medica (SAMU)"
+    },
+    "number": "15"
+   },
+   {
+    "label": {
+     "fr": "Police",
+     "en": "Police",
+     "es": "Policía",
+     "de": "Polizei",
+     "it": "Polizia"
+    },
+    "number": "17"
+   },
+   {
+    "label": {
+     "fr": "Pompiers",
+     "en": "Fire brigade",
+     "es": "Bomberos",
+     "de": "Feuerwehr",
+     "it": "Vigili del fuoco"
+    },
+    "number": "18"
+   },
+   {
+    "label": {
+     "fr": "Urgences européennes",
+     "en": "European emergency",
+     "es": "Emergencias europeas",
+     "de": "Europäischer Notruf",
+     "it": "Emergenze europee"
+    },
+    "number": "112"
+   }
+  ],
+  "blocks": []
+ },
+ "access": {
+  "enabled": false,
+  "codes": []
+ },
+ "theme": {
+  "preset": "",
+  "layout": "classic",
+  "background": {
+   "type": "image",
+   "image": "media/hero-welcome-93791ecf.webp",
+   "color": "#f3f5f6"
+  },
+  "filter": {
+   "type": "none",
+   "color": "#142238",
+   "opacity": 50
+  },
+  "primary": "#142238",
+  "secondary": "#7a5a22",
+  "title": {
+   "font": "Bodoni Moda",
+   "weight": 400,
+   "size": "large",
+   "color": "#f3f1ec"
+  },
+  "subtitle": {
+   "font": "Jost",
+   "weight": 300,
+   "size": "normal",
+   "color": "#f3f1ec",
+   "bgEnabled": false,
+   "bg": "#142238"
+  },
+  "menu": {
+   "enabled": true,
+   "bg": "#142238",
+   "text": "#f3f1ec",
+   "burger": "#f3f1ec",
+   "download": true,
+   "contacts": true
+  },
+  "stickyBar": {
+   "bg": "#142238",
+   "text": "#f3f1ec"
+  },
+  "navBar": {
+   "enabled": true,
+   "logoInside": true,
+   "bg": "#142238",
+   "icon": "#aab3bf",
+   "active": "#c4a46a"
+  },
+  "modules": {
+   "font": "Jost",
+   "weight": 500,
+   "titleColor": "#142238",
+   "iconStyle": "colored",
+   "iconColor": "#7a5a22",
+   "iconSize": "normal",
+   "textSize": "normal",
+   "grid": "2-cols",
+   "radius": "none",
+   "bgType": "color",
+   "bg": "#ffffff",
+   "bgOpacity": 100,
+   "shadowColor": "#142238",
+   "shadow": "none",
+   "overlay": "none",
+   "gridResponsive": false,
+   "gridTablet": "3-cols",
+   "gridDesktop": "4-cols"
+  },
+  "pages": {
+   "bg": "#f3f5f6",
+   "cardBg": "#ffffff",
+   "titleColor": "#142238",
+   "headerTitleColor": "#142238",
+   "categoryTitleColor": "#142238",
+   "textColor": "#3d4652",
+   "secondaryText": "#566170",
+   "iconColor": "#7a5a22",
+   "iconBg": "#f1eadc",
+   "shadow": "none",
+   "photoLayout": "mosaic",
+   "accent": "#7a5a22"
+  },
+  "welcome": {
+   "font": "Jost",
+   "weight": 400,
+   "color": "#142238",
+   "close": "#142238",
+   "bg": "#ffffff",
+   "blockBg": "#f3f5f6",
+   "accent": "#7a5a22",
+   "closeOpacity": 8
+  },
+  "widgets": {
+   "weather": {
+    "enabled": true,
+    "bg": "#ffffff",
+    "text": "#f3f1ec",
+    "opacity": 14
+   },
+   "goButton": {
+    "enabled": true,
+    "bg": "#ffffff",
+    "opacity": 100,
+    "text": "#142238",
+    "icon": "#7a5a22"
+   },
+   "contacts": {
+    "enabled": true,
+    "position": "below",
+    "style": "classic"
+   }
+  },
+  "map": {
+   "markerColor": "#142238",
+   "homeColor": "#7a5a22",
+   "tiles": "osm"
+  }
+ },
+ "welcome": {
+  "enabled": true,
+  "html": {
+   "de": "<h3 style=\"text-align: left;\">🌿Willkommen in der Résidence para-hôtelière Fleur de Maquis!</h3><p style=\"text-align: left;\">Wir freuen uns, Ihnen die Türen unserer Wohnung zu öffnen. Wir haben sie mit viel Sorgfalt gestaltet und eingerichtet, damit Sie den nötigen Komfort finden und sich sofort wohlfühlen.</p><p style=\"text-align: left;\">Legen Sie Ihr Gepäck ab und atmen Sie durch: Ihr Urlaub beginnt hier!</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">Cyril und Jennifer werden Ihre Ansprechpartner während Ihres Aufenthalts sein. Sie freuen sich darauf, Ihnen zu helfen, damit Ihr Urlaub so angenehm wie möglich wird.</p><p style=\"text-align: left;\">Zögern Sie nicht, ihnen eine Nachricht zu senden, sei es vor Ihrer Ankunft oder vor Ort, um:</p><ul><li><p style=\"text-align: left;\"><strong>Ihre Ankunft</strong> ganz unkompliziert zu organisieren.</p></li><li><p style=\"text-align: left;\"><strong>Fragen</strong> zur Funktionsweise der Wohnung zu stellen.</p></li><li><p style=\"text-align: left;\"><strong>Um Rat</strong> oder besondere Hilfe zu bitten.</p></li></ul><h3 style=\"text-align: left;\"></h3><p style=\"text-align: left;\">Jetzt bleibt Ihnen nur noch, jeden Moment zu genießen und es sich bequem zu machen. Fühlen Sie sich hier wie zu Hause!</p><p style=\"text-align: left;\">Einen schönen Aufenthalt,</p><p style=\"text-align: left;\"><strong>Cédric & Magali</strong></p>",
+   "en": "<h3 style=\"text-align: left;\">🌿Welcome to the Résidence para-hôtelière Fleur de Maquis!</h3><p style=\"text-align: left;\">We are delighted to open the doors of our apartment to you. We have designed and furnished it with great care to ensure you find all the comfort you need and feel right at home from the moment you arrive.</p><p style=\"text-align: left;\">Unpack your bags and take a deep breath: your vacation starts here!</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">Cyril and Jennifer will be your main contacts throughout your stay. They will be more than happy to assist you in making your vacation as enjoyable as possible.</p><p style=\"text-align: left;\">Please feel free to send them a quick message, whether before your arrival or once you’re here, to:</p><ul><li><p style=\"text-align: left;\"><strong>Arrange your welcome</strong> with ease.</p></li><li><p style=\"text-align: left;\"><strong>Ask any questions</strong> about how the apartment works.</p></li><li><p style=\"text-align: left;\"><strong>Request advice</strong> or any special assistance.</p></li></ul><h3 style=\"text-align: left;\"></h3><p style=\"text-align: left;\">All that's left is for you to enjoy every moment and settle in comfortably. Feel at home here!</p><p style=\"text-align: left;\">Wishing you a wonderful stay,</p><p style=\"text-align: left;\"><strong>Cédric & Magali</strong></p>",
+   "es": "<h3 style=\"text-align: left;\">🌿¡Bienvenido a la Résidence para-hôtelière Fleur de Maquis!</h3><p style=\"text-align: left;\">Estamos encantados de abrirte las puertas de nuestro apartamento. Lo hemos diseñado y decorado con mucho cuidado para que encuentres todo el confort necesario y te sientas como en casa desde el primer momento.</p><p style=\"text-align: left;\">Deja tus maletas y relájate: ¡tus vacaciones comienzan aquí!</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">Cyril y Jennifer serán tus contactos privilegiados durante toda tu estancia. Estarán encantados de ayudarte para que tus vacaciones sean lo más agradables posible.</p><p style=\"text-align: left;\">No dudes en enviarles un mensaje, ya sea antes de tu llegada o una vez que estés aquí, para:</p><ul><li><p style=\"text-align: left;\"><strong>Organizar tu llegada</strong> de manera sencilla.</p></li><li><p style=\"text-align: left;\"><strong>Hacer cualquier pregunta</strong> sobre el funcionamiento del apartamento.</p></li><li><p style=\"text-align: left;\"><strong>Solicitar un consejo</strong> o ayuda específica.</p></li></ul><h3 style=\"text-align: left;\"></h3><p style=\"text-align: left;\">Solo te queda disfrutar de cada momento y acomodarte cómodamente. ¡Siéntete aquí como en casa!</p><p style=\"text-align: left;\">¡Que tengas una excelente estancia!</p><p style=\"text-align: left;\"><strong>Cédric & Magali</strong></p>",
+   "fr": "<h3 style=\"text-align: left;\">🌿Bienvenue à la Résidence para-hôtelière Fleur de Maquis !</h3><p style=\"text-align: left;\">Nous sommes heureux de vous ouvrir les portes de notre appartement. Nous l'avons pensé et aménagé avec beaucoup d'attention pour que vous y trouviez tout le confort nécessaire et que vous vous y sentiez immédiatement bien.</p><p style=\"text-align: left;\">Posez vos valises et soufflez : vos vacances commencent ici !</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">Cyril et Jennifer seront vos contacts privilégiés tout au long de votre séjour. Ils se feront une joie de vous accompagner pour que vos vacances soient les plus douces possible.</p><p style=\"text-align: left;\">N'hésitez surtout pas à leur envoyer un petit message, que ce soit avant votre arrivée ou une fois sur place, pour :</p><ul><li><p style=\"text-align: left;\"><strong>Organiser votre accueil</strong> en toute simplicité.</p></li><li><p style=\"text-align: left;\"><strong>Poser la moindre question</strong> sur le fonctionnement de l'appartement.</p></li><li><p style=\"text-align: left;\"><strong>Demander un conseil</strong> ou une aide particulière.</p></li></ul><h3 style=\"text-align: left;\"></h3><p style=\"text-align: left;\">Il ne vous reste plus qu'à profiter de chaque instant et à vous installer confortablement. Sentez-vous ici chez vous !</p><p style=\"text-align: left;\">Très bon séjour,</p><p style=\"text-align: left;\"><strong>Cédric &amp; Magali</strong></p>",
+   "it": "<h3 style=\"text-align: left;\">🌿Benvenuti alla Résidence para-hôtelière Fleur de Maquis!</h3><p style=\"text-align: left;\">Siamo felici di aprirvi le porte del nostro appartamento. L'abbiamo progettato e arredato con grande cura affinché troviate tutto il comfort necessario e vi sentiate subito a vostro agio.</p><p style=\"text-align: left;\">Posate le valigie e rilassatevi: le vostre vacanze iniziano qui!</p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">Cyril e Jennifer saranno i vostri contatti privilegiati durante il soggiorno. Saranno lieti di assistervi affinché le vostre vacanze siano le più piacevoli possibile.</p><p style=\"text-align: left;\">Non esitate a inviare loro un messaggio, sia prima del vostro arrivo che una volta sul posto, per:</p><ul><li><p style=\"text-align: left;\"><strong>Organizzare il vostro arrivo</strong> con semplicità.</p></li><li><p style=\"text-align: left;\"><strong>Porre qualsiasi domanda</strong> sul funzionamento dell'appartamento.</p></li><li><p style=\"text-align: left;\"><strong>Richiedere un consiglio</strong> o un aiuto particolare.</p></li></ul><h3 style=\"text-align: left;\"></h3><p style=\"text-align: left;\">Non vi resta che godervi ogni istante e sistemarvi comodamente. Sentitevi qui a casa!</p><p style=\"text-align: left;\">Buon soggiorno,</p><p style=\"text-align: left;\"><strong>Cédric & Magali</strong></p>"
+  },
+  "reshowHours": -1,
+  "showAvatar": true,
+  "showName": true,
+  "showLanguage": true,
+  "showDownload": true,
+  "signaturePosition": "top"
+ },
+ "modules": [
+  {
+   "id": "welcome",
+   "type": "welcome",
+   "active": true,
+   "title": {
+    "de": "Willkommensnachricht",
+    "en": "Welcome message",
+    "es": "Mensaje de bienvenida",
+    "fr": "Mot d'accueil",
+    "it": "Messaggio di benvenuto"
+   },
+   "icon": "message-heart",
+   "image": "media/hero-welcome-93791ecf.webp"
+  },
+  {
+   "id": "checkin",
+   "type": "info",
+   "active": true,
+   "title": {
+    "de": "Ankunftsinfo",
+    "en": "Arrival info",
+    "es": "Información de llegada",
+    "fr": "Infos arrivée",
+    "it": "Informazioni di arrivo"
+   },
+   "icon": "list-details",
+   "image": "media/hero-guestbook-096b6a86.webp",
+   "categories": [
+    {
+     "id": "c14120",
+     "title": {
+      "de": "CHECKIN",
+      "en": "CHECK-IN",
+      "es": "CHECKIN",
+      "fr": "CHECK IN",
+      "it": "CHECKIN"
+     },
+     "icon": "plane",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "031d8565",
+       "title": {
+        "de": "ANREISE AB 16 UHR",
+        "en": "CHECK-IN FROM 4 PM",
+        "es": "LLEGADA A PARTIR DE LAS 16H",
+        "fr": "ARRIVEE A PARTIR DE 16H",
+        "it": "ARRIVO A PARTIRE DALLE 16:00"
+       },
+       "html": {
+        "de": "<h2>Ihr sanfter Ankunft</h2><h3>Treffen Sie uns ab 16:00 Uhr</h3><p>Um Ihnen ein sauberes und gepflegtes Zuhause bis ins kleinste Detail zu bieten, wird Ihre Unterkunft <strong>ab 16:00 Uhr</strong> für Sie bereit sein.</p><ul><li><p><strong>Eine maßgeschneiderte Vorbereitung :</strong> Diese Zeitspanne ermöglicht es uns, die Räumlichkeiten mit der Sorgfalt vorzubereiten, die Sie verdienen.</p></li><li><p><strong>Die Garantie für Komfort :</strong> Das ist das Geheimnis für eine entspannte Ankunft in einer perfekt frischen und einladenden Umgebung.</p></li></ul><p><strong>Stellen Sie Ihr Gepäck ab, atmen Sie durch... Sie sind angekommen.</strong> Wir wünschen Ihnen einen wunderbaren Aufenthalt!</p>",
+        "en": "<h2>Your Smooth Arrival</h2><h3>Check-in from 4:00 PM</h3><p>To provide you with a clean and meticulously prepared space, your accommodation will be ready to welcome you <strong>starting at 4:00 PM</strong>.</p><ul><li><p><strong>A Tailored Preparation:</strong> This time allows us to prepare the space with the attention you deserve.</p></li><li><p><strong>The Guarantee of Comfort:</strong> This is the secret to a peaceful arrival in a perfectly fresh and inviting environment.</p></li></ul><p><strong>Unpack your bags, take a deep breath... you have arrived.</strong> We wish you a wonderful stay!</p>",
+        "es": "<h2>Su llegada sin complicaciones</h2><h3>Encuentro a partir de las 16:00</h3><p>Para ofrecerle un interior limpio y cuidado en cada detalle, su alojamiento estará listo para recibirle <strong>a partir de las 16:00</strong>.</p><ul><li><p><strong>Una preparación a medida :</strong> Este tiempo nos permite preparar los espacios con toda la atención que usted merece.</p></li><li><p><strong>La garantía del confort :</strong> Este es el secreto para una llegada tranquila en un ambiente perfectamente fresco y acogedor.</p></li></ul><p><strong>Deje sus maletas, respire... ha llegado.</strong> ¡Le deseamos una estancia maravillosa!</p>",
+        "fr": "<h2>Votre arrivée en douceur</h2><h3>Rendez-vous dès 16h00</h3><p>Pour vous offrir un intérieur propre et soigné dans les moindres détails, votre logement sera prêt à vous recevoir <strong>à partir de 16h00</strong>.</p><ul><li><p><strong>Une préparation sur mesure :</strong> Ce battement nous permet de préparer les lieux avec toute l'attention que vous méritez.</p></li><li><p><strong>La garantie du confort :</strong> C'est le secret d'une arrivée sereine dans un environnement parfaitement frais et accueillant.</p></li></ul><p><strong>Posez vos valises, respirez... vous êtes arrivés.</strong> Nous vous souhaitons un séjour merveilleux !</p>",
+        "it": "<h2>Il vostro arrivo in dolcezza</h2><h3>Incontro dalle 16:00</h3><p>Per offrirvi un interno pulito e curato nei minimi dettagli, il vostro alloggio sarà pronto ad accogliervi <strong>a partire dalle 16:00</strong>.</p><ul><li><p><strong>Una preparazione su misura :</strong> Questo intervallo ci consente di preparare gli spazi con tutta l'attenzione che meritate.</p></li><li><p><strong>La garanzia del comfort :</strong> È il segreto per un arrivo sereno in un ambiente perfettamente fresco e accogliente.</p></li></ul><p><strong>Posate le valigie, respirate... siete arrivati.</strong> Vi auguriamo un soggiorno meraviglioso!</p>"
+       },
+       "media": [],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "d7",
+     "title": {
+      "de": "Routen",
+      "en": "Routes",
+      "es": "Rutas",
+      "fr": "Itinéraires",
+      "it": "Percorsi"
+     },
+     "icon": "route",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "8cacbbec",
+       "title": {
+        "de": "Wo Sie Casa Di Lozari, Ihr T2 in der Résidence para-hôtelière Fleur de Maquis, finden",
+        "en": "Where to find Casa Di Lozari, your T2 at the Résidence para-hôtelière Fleur de Maquis",
+        "es": "Dónde encontrar Casa Di Lozari, su T2 en la Résidence para-hôtelière Fleur de Maquis",
+        "fr": "Ou trouver Casa Di Lozari votre T2 à la Résidence para-hôtelière Fleur de Maquis",
+        "it": "Dove trovare Casa Di Lozari, il vostro T2 alla Résidence para-hôtelière Fleur de Maquis"
+       },
+       "html": {
+        "de": "<p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/DysYFK4Qt6HaP5wk9\">Google-Link</a></p><p></p><p style=\"text-align: center;\">Résidence para-hôtelière Fleur de Maquis </p><p style=\"text-align: center;\">Route de Belgodère </p><p style=\"text-align: center;\">Appartement Casa Di Lozari G3 </p><p style=\"text-align: center;\">20226 Belgodère</p>",
+        "en": "<p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/DysYFK4Qt6HaP5wk9\">Google Link</a></p><p></p><p style=\"text-align: center;\">Résidence para-hôtelière Fleur de Maquis </p><p style=\"text-align: center;\">Route de Belgodère </p><p style=\"text-align: center;\">Apartment Casa Di Lozari G3 </p><p style=\"text-align: center;\">20226 Belgodère</p>",
+        "es": "<p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/DysYFK4Qt6HaP5wk9\">Enlace de Google</a></p><p></p><p style=\"text-align: center;\">Résidence para-hôtelière Fleur de Maquis </p><p style=\"text-align: center;\">Ruta de Belgodère </p><p style=\"text-align: center;\">Apartamento Casa Di Lozari G3 </p><p style=\"text-align: center;\">20226 Belgodère</p>",
+        "fr": "<p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/DysYFK4Qt6HaP5wk9\">Lien Google</a></p><p></p><p style=\"text-align: center;\">Résidence para-hôtelière Fleur de Maquis </p><p style=\"text-align: center;\">Route de Belgodère </p><p style=\"text-align: center;\">Appartement Casa Di Lozari G3 </p><p style=\"text-align: center;\">20226 Belgodère</p>",
+        "it": "<p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/DysYFK4Qt6HaP5wk9\">Link Google</a></p><p></p><p style=\"text-align: center;\">Résidence para-hôtelière Fleur de Maquis </p><p style=\"text-align: center;\">Strada di Belgodère </p><p style=\"text-align: center;\">Appartamento Casa Di Lozari G3 </p><p style=\"text-align: center;\">20226 Belgodère</p>"
+       },
+       "media": [
+        {
+         "type": "image",
+         "src": "media/gemini-generated-image-wkaee-44aa0353.webp"
+        }
+       ],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "d12",
+     "title": {
+      "de": "Parken",
+      "en": "Parking",
+      "es": "Parking",
+      "fr": "Parking",
+      "it": "Parcheggio"
+     },
+     "icon": "parking",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "3c21741a",
+       "title": {
+        "de": "Ein privater und kostenloser Parkplatz",
+        "en": "A private and free parking space",
+        "es": "Una plaza de aparcamiento privada y gratuita",
+        "fr": "Une place de parking privée et gratuite",
+        "it": "Un posto auto privato e gratuito"
+       },
+       "html": {},
+       "media": [
+        {
+         "type": "image",
+         "src": "media/gemini-generated-image-noeua-1e1f5f9c.webp"
+        }
+       ],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "d8",
+     "title": {
+      "de": "Interne Vorschriften",
+      "en": "Internal regulations",
+      "es": "Reglamento interno",
+      "fr": "Règlement intérieur",
+      "it": "Regolamento interno"
+     },
+     "icon": "gavel",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "d6ce6b5a",
+       "title": {
+        "de": "Hausordnung",
+        "en": "House Rules",
+        "es": "Reglamento de la residencia",
+        "fr": "Règlement de la résidence",
+        "it": "Regolamento della struttura"
+       },
+       "html": {
+        "de": "<h2 style=\"text-align: center;\">✨ Es ist uns eine Freude, Sie bei uns zu empfangen!</h2><p style=\"text-align: center;\">Wir haben diesen Ort mit viel Sorgfalt vorbereitet, damit Sie bei Ihren ersten Schritten drinnen eine warme und beruhigende Atmosphäre spüren. Stellen Sie Ihr Gepäck ab, atmen Sie tief durch: Ihr Urlaub beginnt hier. 🌟</p><p style=\"text-align: center;\">Damit Ihr zauberhaftes Erlebnis so angenehm wie möglich ist, haben wir einige kleine Geheimnisse des Hauses zusammengestellt, um in perfekter Harmonie mit dieser schönen Umgebung zu leben. 🌿</p><h3 style=\"text-align: center;\"></h3><ul><li><p style=\"text-align: left;\"><strong>🌬️ Ein Hauch von Frische</strong> Um eine reine und angenehme Atmosphäre das ganze Jahr über zu bewahren, wurde Ihr Wohnraum als rauchfreier Bereich gestaltet. Wenn Sie eine Zigarettenpause einlegen möchten</p></li><li><p style=\"text-align: left;\"><strong>🕊️ Ein Raum für die Ruhe aller</strong> Obwohl wir Tiere sehr lieben, haben wir uns entschieden, eine völlig hypoallergene Umgebung zu schaffen. Daher können wir keine kleinen vierbeinigen Begleiter aufnehmen💖</p></li><li><p style=\"text-align: left;\"><strong>🌙 Die sanfte Melodie ruhiger Nächte</strong> Einer der großen Reize dieses Ortes ist seine schöne Ruhe. Um diese Ruhe zu bewahren, geben wir Ihnen einen kleinen Freundschaftstipp: Ab 23 Uhr, wenn die Welt zur Ruhe kommt, dämpfen Sie die Stimmung und bevorzugen Sie leise Gespräche. Diese zarte Rücksichtnahme auf unsere lieben Nachbarn garantiert allen erholsame Nächte und strahlende Morgen. 🌌</p></li><li><p style=\"text-align: left;\"></p></li></ul><p style=\"text-align: center;\">Machen Sie es sich bequem, schaffen Sie wunderschöne Erinnerungen und genießen Sie vor allem jeden Moment. Wir stehen Ihnen diskret zur Verfügung, falls Sie eine Empfehlung benötigen. 😊</p><p style=\"text-align: center;\"><strong>Wir wünschen Ihnen einen einfach wunderbaren Aufenthalt!</strong> 🎉</p>",
+        "en": "<h2 style=\"text-align: center;\">✨ We are thrilled to welcome you home!</h2><p style=\"text-align: center;\">We have carefully prepared this space so that from the moment you step inside, you feel a warm and soothing atmosphere. Unpack your bags, take a deep breath: your vacation starts here. 🌟</p><p style=\"text-align: center;\">To ensure your enchanting getaway is as delightful as possible, here are a few little house secrets to help you live in perfect harmony with this beautiful environment. 🌿</p><h3 style=\"text-align: center;\"></h3><ul><li><p style=\"text-align: left;\"><strong>🌬️ A preserved scent of freshness</strong> To maintain a pure and pleasant atmosphere throughout the year, the interior of your accommodation has been designed as a strictly non-smoking space. If you wish to take a cigarette break</p></li><li><p style=\"text-align: left;\"><strong>🕊️ A space designed for everyone's serenity</strong> While we hold animals dear to our hearts, we have chosen to create a completely hypoallergenic environment. Therefore, we cannot accommodate furry companions💖</p></li><li><p style=\"text-align: left;\"><strong>🌙 The gentle melody of peaceful nights</strong> One of the great charms of this place is its lovely tranquility. To preserve this bubble of rest, we offer you a friendly tip: starting at 11 PM, when the world is falling asleep, please lower the volume and favor whispers. This delicate consideration for our charming neighbors will ensure everyone enjoys deeply restorative nights and bright awakenings. 🌌</p></li><li><p style=\"text-align: left;\"></p></li></ul><p style=\"text-align: center;\">Make yourself comfortable, create beautiful memories, and most importantly, enjoy every moment. We remain discreetly at your service if you need any recommendations. 😊</p><p style=\"text-align: center;\"><strong>We wish you a simply wonderful stay!</strong> 🎉</p>",
+        "es": "<h2 style=\"text-align: center;\">✨ ¡Qué alegría recibirle en casa!</h2><p style=\"text-align: center;\">Hemos preparado este lugar con esmero para que, desde sus primeros pasos dentro, sienta una atmósfera cálida y relajante. Deje sus maletas, respire: sus vacaciones comienzan aquí. 🌟</p><p style=\"text-align: center;\">Para que su encantadora pausa sea lo más placentera posible, aquí tiene algunos pequeños secretos de la casa para vivir en perfecta armonía con este hermoso entorno. 🌿</p><h3 style=\"text-align: center;\"></h3><ul><li><p style=\"text-align: left;\"><strong>🌬️ Un aroma de frescura preservado</strong> Para mantener una atmósfera pura y agradable durante todo el año, el interior de su alojamiento ha sido diseñado como un espacio exclusivamente para no fumadores. Si desea disfrutar de un descanso para fumar</p></li><li><p style=\"text-align: left;\"><strong>🕊️ Un espacio diseñado para la serenidad de todos</strong> Aunque llevamos a los animales en nuestro corazón, hemos optado por crear un entorno totalmente hipoalergénico. Por eso, no podemos acoger a pequeños compañeros de cuatro patas💖</p></li><li><p style=\"text-align: left;\"><strong>🌙 La dulce melodía de noches tranquilas</strong> Uno de los grandes encantos de este lugar es su hermosa tranquilidad. Para preservar esta burbuja de descanso, le compartimos un pequeño consejo de amigo: a partir de las 23h, cuando el mundo se duerme, atenúe el ambiente y opte por susurros. Esta delicada atención hacia nuestros encantadores vecinos garantizará a todos noches profundamente reparadoras y despertares radiantes. 🌌</p></li><li><p style=\"text-align: left;\"></p></li></ul><p style=\"text-align: center;\">Tómese su tiempo, cree hermosos recuerdos y, sobre todo, disfrute de cada momento. Estamos discretamente a su disposición si necesita alguna recomendación. 😊</p><p style=\"text-align: center;\"><strong>¡Le deseamos una estancia simplemente maravillosa!</strong> 🎉</p>",
+        "fr": "<h2 style=\"text-align: center;\">✨ Quel bonheur de vous recevoir chez vous !</h2><p style=\"text-align: center;\">Nous avons préparé ce lieu avec soin pour que, dès vos premiers pas à l'intérieur, vous ressentiez une atmosphère chaleureuse et apaisante. Posez vos valises, respirez : vos vacances commencent ici. 🌟</p><p style=\"text-align: center;\">Pour que votre parenthèse enchantée soit la plus douce possible, voici quelques petits secrets de la maison pour vivre en parfaite harmonie avec ce bel environnement. 🌿</p><h3 style=\"text-align: center;\"></h3><ul><li><p style=\"text-align: left;\"><strong>🌬️ Un parfum de fraîcheur préservé</strong> Pour maintenir une atmosphère pure et agréable tout au long de l'année, l'intérieur de votre logement a été pensé comme un espace exclusivement non-fumeur. Si vous souhaitez profiter d'une pause cigarette</p></li><li><p style=\"text-align: left;\"><strong>🕊️ Un espace conçu pour la sérénité de tous</strong> Bien que nous portions les animaux dans notre cœur, nous avons fait le choix de créer un environnement totalement hypoallergénique. C'est pourquoi nous ne pouvons pas accueillir de petits compagnons à quatre pattes💖</p></li><li><p style=\"text-align: left;\"><strong>🌙 La douce mélodie des nuits tranquilles</strong> L'un des grands charmes de cet endroit est sa belle quiétude. Pour préserver cette bulle de repos, nous vous glissons un petit conseil d'ami : à partir de 23h, lorsque le monde s'endort, tamisez l'ambiance et privilégiez les murmures. Cette délicate attention envers nos charmants voisins garantira à tout le monde des nuits profondément réparatrices et des réveils radieux. 🌌</p></li><li><p style=\"text-align: left;\"></p></li></ul><p style=\"text-align: center;\">Prenez vos aises, créez-vous de magnifiques souvenirs et surtout, profitez de chaque instant. Nous restons discrètement à votre écoute si vous avez besoin de la moindre recommandation. 😊</p><p style=\"text-align: center;\"><strong>Nous vous souhaitons un séjour tout simplement merveilleux !</strong> 🎉</p>",
+        "it": "<h2 style=\"text-align: center;\">✨ Che gioia accogliervi a casa!</h2><p style=\"text-align: center;\">Abbiamo preparato questo luogo con cura affinché, fin dai vostri primi passi all'interno, possiate percepire un'atmosfera calda e rilassante. Mettete giù le valigie, respirate: le vostre vacanze iniziano qui. 🌟</p><p style=\"text-align: center;\">Per rendere la vostra parentesi incantata il più dolce possibile, ecco alcuni piccoli segreti della casa per vivere in perfetta armonia con questo bellissimo ambiente. 🌿</p><h3 style=\"text-align: center;\"></h3><ul><li><p style=\"text-align: left;\"><strong>🌬️ Un profumo di freschezza preservato</strong> Per mantenere un'atmosfera pura e piacevole durante tutto l'anno, l'interno della vostra sistemazione è stato pensato come uno spazio esclusivamente non fumatori. Se desiderate fare una pausa sigaretta</p></li><li><p style=\"text-align: left;\"><strong>🕊️ Uno spazio progettato per la serenità di tutti</strong> Anche se amiamo gli animali, abbiamo scelto di creare un ambiente totalmente ipoallergenico. Per questo motivo, non possiamo accogliere piccoli amici a quattro zampe💖</p></li><li><p style=\"text-align: left;\"><strong>🌙 La dolce melodia delle notti tranquille</strong> Uno dei grandi incanti di questo luogo è la sua bella tranquillità. Per preservare questa bolla di riposo, vi diamo un piccolo consiglio da amici: a partire dalle 23:00, quando il mondo si addormenta, abbassate l'atmosfera e privilegiate i sussurri. Questa delicata attenzione verso i nostri adorabili vicini garantirà a tutti notti profondamente riparatrici e risvegli radiosi. 🌌</p></li><li><p style=\"text-align: left;\"></p></li></ul><p style=\"text-align: center;\">Sentitevi a vostro agio, create bellissimi ricordi e soprattutto, godetevi ogni istante. Siamo discretamente a vostra disposizione se avete bisogno di qualche raccomandazione. 😊</p><p style=\"text-align: center;\"><strong>Vi auguriamo un soggiorno semplicemente meraviglioso!</strong> 🎉</p>"
+       },
+       "media": [],
+       "active": true
+      },
+      {
+       "id": "7d5b3096",
+       "title": {
+        "de": "Regeln für den Pool",
+        "en": "Pool Rules",
+        "es": "Reglamento de la piscina",
+        "fr": "Règlement de la piscine",
+        "it": "Regolamento della piscina"
+       },
+       "html": {
+        "de": "<p>Öffnungszeiten: 9:00 bis 20:00 Uhr.</p><p>Der Pool wird vom 1. April bis 31. Oktober auf 28 Grad beheizt.</p>",
+        "en": "<p>Opening hours: 9:00 AM to 8:00 PM.</p><p>The pool is heated to 28 degrees from April 1st to October 31st.</p>",
+        "es": "<p>Horarios de apertura: 9:00 a 20:00.</p><p>La piscina está climatizada a 28 grados del 1 de abril al 31 de octubre.</p>",
+        "fr": "<p>Horaires d'ouverture : 9h00 à 20h00.</p><p>La piscine est chauffée à 28 degrés du 1er avril au 31 octobre.</p>",
+        "it": "<p>Orari di apertura: 9:00 - 20:00.</p><p>La piscina è riscaldata a 28 gradi dal 1 aprile al 31 ottobre.</p>"
+       },
+       "media": [
+        {
+         "type": "image",
+         "src": "media/gemini-generated-image-owja1-44631b70.webp"
+        }
+       ],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "d6",
+     "title": {
+      "de": "Verkehr",
+      "en": "Transport",
+      "es": "Transporte",
+      "fr": "Transports",
+      "it": "Trasporto"
+     },
+     "icon": "bus",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "6cd6ee51",
+       "title": {
+        "de": "Zu Fuß",
+        "en": "On Foot",
+        "es": "A pie",
+        "fr": "A Pied",
+        "it": "A Piedi"
+       },
+       "html": {
+        "de": "<h3 style=\"text-align: center;\">🌿 Rund um die Résidence para-hôtelière Fleur de Maquis</h3><p style=\"text-align: center;\">Willkommen in Ihrem Zuhause! Um Ihre Ausflüge zu erleichtern, hier sind einige Informationen über die unmittelbare Umgebung :</p><ul><li><p>🥾 <strong>Wanderungen direkt vor der Tür :</strong> Lust auf Natur? Sehr schöne Wanderwege beginnen direkt von der Unterkunft. Sie müssen nur Ihre Turnschuhe anziehen!</p></li><li><p>🏖️ <strong>Um zum Strand (800 Meter entfernt) zu gelangen :</strong> Auch wenn das Meer ganz nah ist, ist der Weg dorthin leider nicht sicher für Fußgänger. Zu Ihrer Sicherheit empfehlen wir, diese kurze Strecke mit dem Auto zu fahren. Die gute Nachricht: Der Parkplatz am Strand ist völlig kostenlos!</p></li></ul><p style=\"text-align: center;\">Verbringen Sie einen hervorragenden Urlaub und genießen Sie Ihre Entdeckungen!</p>",
+        "en": "<h3 style=\"text-align: center;\">🌿 Around the Résidence para-hôtelière Fleur de Maquis</h3><p style=\"text-align: center;\">Welcome home! To make your outings easier, here’s what you need to know about the immediate surroundings:</p><ul><li><p>🥾 <strong>Walks Right at Your Doorstep:</strong> Want to enjoy nature? Beautiful hiking trails start right from the residence. Just lace up your sneakers!</p></li><li><p>🏖️ <strong>Getting to the Beach (800 meters away):</strong> Although the sea is very close, the road to access it is unfortunately not safe for pedestrians. For your peace of mind, we recommend driving this short distance. The good news: parking at the beach is completely free!</p></li></ul><p style=\"text-align: center;\">Have a fantastic vacation and enjoy your discoveries!</p>",
+        "es": "<h3 style=\"text-align: center;\">🌿 Alrededor de la Résidence para-hôtelière Fleur de Maquis</h3><p style=\"text-align: center;\">¡Bienvenido a su hogar! Para facilitar sus salidas, aquí tiene lo que necesita saber sobre los alrededores inmediatos :</p><ul><li><p>🥾 <strong>Excursiones a la puerta :</strong> ¿Desea disfrutar de la naturaleza? Bonitos senderos de senderismo comienzan directamente desde la residencia. ¡Solo tiene que ponerse sus zapatillas!</p></li><li><p>🏖️ <strong>Para llegar a la playa (a 800 metros) :</strong> Aunque el mar está muy cerca, el camino para acceder no es lamentablemente seguro para los peatones. Para su tranquilidad, le recomendamos hacer este pequeño trayecto en coche. ¡La buena noticia es que el aparcamiento de la playa es completamente gratuito!</p></li></ul><p style=\"text-align: center;\">¡Disfrute de unas excelentes vacaciones y aproveche al máximo sus descubrimientos!</p>",
+        "fr": "<h3 style=\"text-align: center;\">🌿 Autour de la Résidence para-hôtelière Fleur de Maquis</h3><p style=\"text-align: center;\">Bienvenue chez vous ! Pour faciliter vos sorties, voici ce qu'il faut savoir sur les environs immédiats :</p><ul><li><p>🥾 <strong>Des balades au pas de la porte :</strong> Envie de vous mettre au vert ? De très jolis sentiers de randonnée démarrent directement depuis la résidence. Il n'y a qu'à chausser vos baskets !</p></li><li><p>🏖️ <strong>Pour rejoindre la plage (à 800 mètres) :</strong> Même si la mer est toute proche, la route pour y accéder n'est malheureusement pas sécurisée pour les piétons. Pour votre tranquillité, nous vous conseillons de faire ce petit trajet en voiture. La bonne nouvelle : le parking de la plage est entièrement gratuit !</p></li></ul><p style=\"text-align: center;\">Passez d'excellentes vacances et profitez bien de vos découvertes !</p>",
+        "it": "<h3 style=\"text-align: center;\">🌿 Intorno alla Résidence para-hôtelière Fleur de Maquis</h3><p style=\"text-align: center;\">Benvenuti a casa! Per facilitare le vostre uscite, ecco cosa sapere sui dintorni immediati :</p><ul><li><p>🥾 <strong>Passeggiate a due passi da casa :</strong> Volete immergervi nella natura? Bellissimi sentieri escursionistici partono direttamente dalla residenza. Non vi resta che indossare le vostre scarpe da ginnastica!</p></li><li><p>🏖️ <strong>Per raggiungere la spiaggia (a 800 metri) :</strong> Anche se il mare è molto vicino, purtroppo la strada per accedervi non è sicura per i pedoni. Per la vostra tranquillità, vi consigliamo di percorrere questo breve tragitto in auto. La buona notizia: il parcheggio della spiaggia è completamente gratuito!</p></li></ul><p style=\"text-align: center;\">Vi auguriamo ottime vacanze e buon divertimento con le vostre scoperte!</p>"
+       },
+       "media": [],
+       "active": true
+      },
+      {
+       "id": "2e767028",
+       "title": {
+        "de": "Mit dem Auto",
+        "en": "By Car",
+        "es": "En coche",
+        "fr": "En voiture",
+        "it": "In auto"
+       },
+       "html": {
+        "de": "<p style=\"text-align: center;\">⚓  Hafen Ile Rousse : 15min ⏱️</p><p style=\"text-align: center;\">✈️  Flughafen Calvi : 40min ⏱️</p><p style=\"text-align: center;\">✈️  Flughafen Bastia : 1h ⏱️</p><p style=\"text-align: center;\">⚓  Hafen Bastia : 1h15 ⏱️</p>",
+        "en": "<p style=\"text-align: center;\">⚓  Port Ile Rousse: 15min ⏱️</p><p style=\"text-align: center;\">✈️  Calvi Airport: 40min ⏱️</p><p style=\"text-align: center;\">✈️  Bastia Airport: 1h ⏱️</p><p style=\"text-align: center;\">⚓  Bastia Port: 1h15 ⏱️</p>",
+        "es": "<p style=\"text-align: center;\">⚓  Puerto Ile Rousse: 15min ⏱️</p><p style=\"text-align: center;\">✈️  Aeropuerto de Calvi: 40min ⏱️</p><p style=\"text-align: center;\">✈️  Aeropuerto de Bastia: 1h ⏱️</p><p style=\"text-align: center;\">⚓  Puerto de Bastia: 1h15 ⏱️</p>",
+        "fr": "<p style=\"text-align: center;\">⚓  Port Ile Rousse : 15min ⏱️</p><p style=\"text-align: center;\">✈️  Aéroport Calvi : 40min ⏱️</p><p style=\"text-align: center;\">✈️  Aéroport Bastia : 1h ⏱️</p><p style=\"text-align: center;\">⚓  Port Bastia : 1h15 ⏱️</p>",
+        "it": "<p style=\"text-align: center;\">⚓  Porto Ile Rousse : 15min ⏱️</p><p style=\"text-align: center;\">✈️  Aeroporto di Calvi : 40min ⏱️</p><p style=\"text-align: center;\">✈️  Aeroporto di Bastia : 1h ⏱️</p><p style=\"text-align: center;\">⚓  Porto di Bastia : 1h15 ⏱️</p>"
+       },
+       "media": [],
+       "active": true
+      },
+      {
+       "id": "a11128d9",
+       "title": {
+        "de": "Mit dem Bus",
+        "en": "By Bus",
+        "es": "En Autobús",
+        "fr": "En Bus",
+        "it": "In Autobus"
+       },
+       "html": {
+        "de": "<p style=\"text-align: center;\">Linie 1 🚍</p><p style=\"text-align: center;\">Haltestelle: Zone 📍</p><p style=\"text-align: center;\">Einkaufszentrum L’Osari 🛍️</p>",
+        "en": "<p style=\"text-align: center;\">Line 1 🚍</p><p style=\"text-align: center;\">Stop: Zone 📍</p><p style=\"text-align: center;\">Commercial Area L’Osari 🛍️</p>",
+        "es": "<p style=\"text-align: center;\">Línea 1 🚍</p><p style=\"text-align: center;\">Parada: Zona 📍</p><p style=\"text-align: center;\">Comercial L’Osari 🛍️</p>",
+        "fr": "<p style=\"text-align: center;\">Ligne 1 🚍</p><p style=\"text-align: center;\">Arrêt : Zone 📍</p><p style=\"text-align: center;\">Commerciale L’Osari 🛍️</p>",
+        "it": "<p style=\"text-align: center;\">Linea 1 🚍</p><p style=\"text-align: center;\">Fermata: Zona 📍</p><p style=\"text-align: center;\">Commerciale L’Osari 🛍️</p>"
+       },
+       "media": [],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "c14168",
+     "title": {
+      "de": "GESCHÄFTE IN DER NÄHE",
+      "en": "LOCAL SHOPS NEARBY",
+      "es": "COMERCIO CERCANO",
+      "fr": "COMMERCE A PROXIMITE",
+      "it": "NEGOZI NELLE VICINANZE"
+     },
+     "icon": "shopping-cart",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": []
+    }
+   ]
+  },
+  {
+   "id": "useful",
+   "type": "info",
+   "active": true,
+   "title": {
+    "de": "Praktische Informationen",
+    "en": "Practical info",
+    "es": "Información práctica",
+    "fr": "Infos pratiques",
+    "it": "Info pratiche"
+   },
+   "icon": "info-circle",
+   "image": "media/hero-useful-1a5af3aa.webp",
+   "categories": [
+    {
+     "id": "u5",
+     "title": {
+      "de": "Abfälle",
+      "en": "Garbage",
+      "es": "Basuras",
+      "fr": "Poubelles",
+      "it": "Garage"
+     },
+     "icon": "trash",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "4b740da1",
+       "title": {
+        "fr": "Les déchets en Corse",
+        "en": "Waste Management in Corsica",
+        "es": "Los residuos en Córcega",
+        "de": "Der Müll in Korsika",
+        "it": "I rifiuti in Corsica"
+       },
+       "html": {
+        "de": "<h2 style=\"text-align: center;\">♻️ Abfallmanagement auf Korsika</h2><p style=\"text-align: center;\">Auf Korsika schützen wir unsere Umwelt! Die <strong>Abfalltrennung ist Pflicht</strong> und erfolgt über gemeinsame Sammelstellen (es gibt keine Abholung vor der Tür).</p><h3 style=\"text-align: center;\">1. Wie trennen?</h3><p style=\"text-align: center;\">Um Ihnen die Aufgabe zu erleichtern, haben wir spezielle Säcke bereitgestellt:</p><ul><li><p><strong>Kunststoffe & Verpackungen:</strong> Die Säcke befinden sich hinter dem Schrank in der Mitte der Wohnung (auf Höhe des Warmwasserbereiters).</p></li><li><p><strong>Glas:</strong> Auch für Glas finden Sie Säcke am selben Ort (hinter dem Schrank des Warmwasserbereiters).</p></li><li><p><strong>Kompostierbare Abfälle:</strong> Biologisch abbaubare Säcke sind vorhanden und befinden sich direkt im kleinen Kompostbehälter unter der Spüle.</p></li><li><p><strong>Restmüll (nicht recycelbar):</strong> Der Hauptmüllbehälter befindet sich unter der Spüle.</p></li></ul><h3 style=\"text-align: center;\">2. Wo entsorgen Sie Ihren Abfall?</h3><p style=\"text-align: center;\">Der nächste Sammelpunkt befindet sich etwa <strong>3 km</strong> von der Wohnung entfernt.</p><blockquote><p style=\"text-align: center;\">📍 <strong>Standort:</strong> Sie finden die großen Sammelbehälter an der Straße, kurz bevor Sie zum <strong>Spar</strong> gelangen.</p><p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/y5cLHxV6qodNPPby8\">https://maps.app.goo.gl/y5cLHxV6qodNPPby8</a></p></blockquote><p style=\"text-align: center;\">Vielen Dank für Ihre Hilfe, unsere schöne Insel sauber zu halten!</p>",
+        "en": "<h2 style=\"text-align: center;\">♻️ Waste Management in Corsica</h2><p style=\"text-align: center;\">In Corsica, we take care of our environment! <strong>Sorting waste is mandatory</strong> and is managed through collective collection points (there is no pickup at your door).</p><h3 style=\"text-align: center;\">1. How to Sort?</h3><p style=\"text-align: center;\">To make it easier for you, we have provided specific bags:</p><ul><li><p><strong>Plastic & Packaging:</strong> The bags can be found behind the cupboard located in the middle of the apartment (near the water heater).</p></li><li><p><strong>Glass:</strong> You will also find bags for glass in the same place (behind the cupboard of the water heater).</p></li><li><p><strong>Compostable Waste:</strong> Biodegradable bags are provided and can be found directly in the small compost bin under the sink.</p></li><li><p><strong>Household Waste (non-recyclable):</strong> The main bin is located under the sink.</p></li></ul><h3 style=\"text-align: center;\">2. Where to Dispose of Your Waste?</h3><p style=\"text-align: center;\">The nearest collection point is about <strong>3 km</strong> from the apartment.</p><blockquote><p style=\"text-align: center;\">📍 <strong>Location:</strong> You will find the large sorting bins on the road, just before reaching the <strong>Spar</strong>.</p><p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/y5cLHxV6qodNPPby8\">https://maps.app.goo.gl/y5cLHxV6qodNPPby8</a></p></blockquote><p style=\"text-align: center;\">Thank you for helping us keep our beautiful island clean!</p>",
+        "es": "<h2 style=\"text-align: center;\">♻️ La gestión de residuos en Córcega</h2><p style=\"text-align: center;\">¡En Córcega, cuidamos nuestro entorno! La <strong>separación de residuos es obligatoria</strong> y funciona gracias a puntos de recogida colectivos (no hay recolección frente a la puerta).</p><h3 style=\"text-align: center;\">1. ¿Cómo separar?</h3><p style=\"text-align: center;\">Para facilitarte la tarea, hemos preparado bolsas específicas:</p><ul><li><p><strong>Plástico & Envases :</strong> Las bolsas se encuentran detrás del armario situado en el centro del apartamento (a nivel del calentador de agua).</p></li><li><p><strong>Vidrio :</strong> También encontrarás bolsas para el vidrio en el mismo lugar (detrás del armario del calentador de agua).</p></li><li><p><strong>Residuos compostables :</strong> Se proporcionan bolsas biodegradables que se encuentran directamente en el pequeño cubo de compost debajo del fregadero.</p></li><li><p><strong>Basura doméstica (no reciclable) :</strong> El cubo principal está ubicado debajo del fregadero.</p></li></ul><h3 style=\"text-align: center;\">2. ¿Dónde depositar tus residuos?</h3><p style=\"text-align: center;\">El punto de recogida más cercano se encuentra a aproximadamente <strong>3 km</strong> del apartamento.</p><blockquote><p style=\"text-align: center;\">📍 <strong>Localización :</strong> Encontrarás los grandes contenedores de reciclaje en la carretera, justo antes de llegar al <strong>Spar</strong>.</p><p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/y5cLHxV6qodNPPby8\">https://maps.app.goo.gl/y5cLHxV6qodNPPby8</a></p></blockquote><p style=\"text-align: center;\">¡Gracias por tu ayuda para mantener nuestra isla hermosa y limpia!</p>",
+        "fr": "<h2 style=\"text-align: center;\">♻️ La gestion des déchets en Corse</h2><p style=\"text-align: center;\">En Corse, nous préservons notre environnement ! Le <strong>tri sélectif est obligatoire</strong> et fonctionne grâce à des points de collecte collectifs (il n'y a pas de ramassage devant la porte).</p><h3 style=\"text-align: center;\">1. Comment trier ?</h3><p style=\"text-align: center;\">Pour vous faciliter la tâche, nous avons prévu des sacs spécifiques :</p><ul><li><p><strong>Plastique &amp; Emballages :</strong> Les sacs se trouvent derrière le placard situé au milieu de l'appartement (au niveau du cumulus).</p></li><li><p><strong>Verre :</strong> Vous trouverez également des sacs pour le verre au même endroit (derrière le placard du cumulus).</p></li><li><p><strong>Déchets compostables :</strong> Des sacs biodégradables sont fournis et se trouvent directement dans la petite poubelle à compost sous l'évier.</p></li><li><p><strong>Ordures ménagères (non recyclables) :</strong> La poubelle principale se situe sous l'évier.</p></li></ul><h3 style=\"text-align: center;\">2. Où déposer vos déchets ?</h3><p style=\"text-align: center;\">Le point de collecte le plus proche se situe à environ <strong>3 km</strong> de l'appartement.</p><blockquote><p style=\"text-align: center;\">📍 <strong>Localisation :</strong> Vous trouverez les grands bacs de tri sur la route, juste avant d'arriver au <strong>Spar</strong>.</p><p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/y5cLHxV6qodNPPby8\">https://maps.app.goo.gl/y5cLHxV6qodNPPby8</a></p></blockquote><p style=\"text-align: center;\">Merci de votre aide pour garder notre île de beauté propre !</p>",
+        "it": "<h2 style=\"text-align: center;\">♻️ La gestione dei rifiuti in Corsica</h2><p style=\"text-align: center;\">In Corsica, preserviamo il nostro ambiente! La <strong>raccolta differenziata è obbligatoria</strong> e funziona grazie a punti di raccolta collettivi (non c'è raccolta porta a porta).</p><h3 style=\"text-align: center;\">1. Come differenziare?</h3><p style=\"text-align: center;\">Per semplificarti la vita, abbiamo previsto sacchetti specifici :</p><ul><li><p><strong>Plastica & Imballaggi :</strong> I sacchetti si trovano dietro l'armadietto situato al centro dell'appartamento (a livello del boiler).</p></li><li><p><strong>Vetro :</strong> Troverai anche sacchetti per il vetro nello stesso posto (dietro l'armadietto del boiler).</p></li><li><p><strong>Rifiuti compostabili :</strong> Sono forniti sacchetti biodegradabili che si trovano direttamente nel piccolo cestino per il compost sotto il lavello.</p></li><li><p><strong>Rifiuti domestici (non riciclabili) :</strong> Il cestino principale si trova sotto il lavello.</p></li></ul><h3 style=\"text-align: center;\">2. Dove depositare i tuoi rifiuti?</h3><p style=\"text-align: center;\">Il punto di raccolta più vicino si trova a circa <strong>3 km</strong> dall'appartamento.</p><blockquote><p style=\"text-align: center;\">📍 <strong>Posizione :</strong> Troverai i grandi contenitori per la raccolta lungo la strada, poco prima di arrivare al <strong>Spar</strong>.</p><p style=\"text-align: center;\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" class=\"wysiwyg-link\" href=\"https://maps.app.goo.gl/y5cLHxV6qodNPPby8\">https://maps.app.goo.gl/y5cLHxV6qodNPPby8</a></p></blockquote><p style=\"text-align: center;\">Grazie per il tuo aiuto nel mantenere pulita la nostra isola di bellezza!</p>"
+       },
+       "media": [
+        {
+         "type": "image",
+         "src": "media/78137807-1390869897738557-56-aa8b083e.webp"
+        }
+       ],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "u8",
+     "title": {
+      "de": "Hochtechnologie",
+      "en": "High Tech",
+      "es": "High Tech",
+      "fr": "High Tech",
+      "it": "High Tech"
+     },
+     "icon": "device-tv",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "c5ee31df",
+       "title": {
+        "fr": "Divertissement & Connectivité",
+        "en": "Entertainment & Connectivity",
+        "es": "Entretenimiento & Conectividad",
+        "de": "Unterhaltung & Vernetzung",
+        "it": "Intrattenimento & Connettività"
+       },
+       "html": {
+        "de": "<p>Willkommen in Ihrem korsischen Rückzugsort! Für Ihre Entspannungsmomente nach einem Tag am Strand oder beim Wandern haben wir die Wohnung mit modernster Technologie ausgestattet:</p><h3><strong>TV- & Musikerlebnis (Google TV)</strong></h3><p>Genießen Sie einen <strong>Smart TV</strong>, der mit schnellem WLAN verbunden ist und vollen Zugriff bietet:</p><ul><li><p><strong>TNT-Kanäle:</strong> Alle Ihre klassischen Kanäle in hochauflösender Qualität.</p></li><li><p><strong>Ihre Apps:</strong> Dank der <strong>Google TV</strong>-Oberfläche können Sie sich ganz einfach in Ihre persönlichen Konten (Netflix, Disney+ usw.) einloggen.</p></li><li><p><strong>YouTube Premium:</strong> Das große Highlight Ihres Aufenthalts! Sie haben unbegrenzten Zugang zu:</p><ul><li><p>Alle <strong>Videos ohne Werbung</strong> ansehen.</p></li><li><p>Genießen Sie <strong>YouTube Music</strong>: Hören Sie all die Musik, die Sie lieben, kostenlos und unbegrenzt direkt auf dem Fernseher.</p></li></ul></li></ul><h3><strong>Musik & Tablet</strong></h3><ul><li><p><strong>Bluetooth-Lautsprecher:</strong> Verbinden Sie Ihr Smartphone, um Ihre Playlists abzuspielen, oder leiten Sie den Ton vom Tablet an den Lautsprecher weiter.</p></li><li><p><strong>Verbundenes Tablet:</strong> Steht Ihnen für Ihre touristischen Recherchen, zur Wetterabfrage oder zum Surfen im Internet zur Verfügung.</p></li></ul><p></p>",
+        "en": "<p>Welcome to your Corsican retreat! For your relaxation moments after a day at the beach or hiking, we have equipped the apartment with the best technology available:</p><h3><strong>TV & Music Experience (Google TV)</strong></h3><p>Enjoy a <strong>Smart TV</strong> connected to high-speed Wi-Fi with full access to:</p><ul><li><p><strong>Freeview Channels:</strong> All your favorite channels in high definition.</p></li><li><p><strong>Your Apps:</strong> With the <strong>Google TV</strong> interface, easily log into your personal accounts (Netflix, Disney+, etc.).</p></li><li><p><strong>YouTube Premium:</strong> The highlight of your stay! You have unlimited access to:</p><ul><li><p>Watch all <strong>videos without any ads</strong>.</p></li><li><p>Enjoy <strong>YouTube Music</strong>: listen to all the music you love, for free and without limits, directly on the TV.</p></li></ul></li></ul><h3><strong>Music & Tablet</strong></h3><ul><li><p><strong>Bluetooth Speaker:</strong> Connect your smartphone to stream your playlists or switch the sound from the tablet to the speaker.</p></li><li><p><strong>Connected Tablet:</strong> Available for your travel research, checking the weather, or browsing the web.</p></li></ul><p></p>",
+        "es": "<p>¡Bienvenido a tu refugio corsa! Para tus momentos de relajación después de un día de playa o senderismo, hemos equipado el apartamento con lo mejor de la tecnología:</p><h3><strong>La Experiencia TV & Música (Google TV)</strong></h3><p>Disfruta de una <strong>Smart TV</strong> conectada a Wi-Fi de alta velocidad con acceso completo:</p><ul><li><p><strong>Canales TNT :</strong> Todos tus canales clásicos en alta definición.</p></li><li><p><strong>Tus Aplicaciones :</strong> Gracias a la interfaz <strong>Google TV</strong>, conéctate fácilmente a tus cuentas personales (Netflix, Disney+, etc.).</p></li><li><p><strong>YouTube Premium :</strong> ¡El gran punto fuerte de la estancia! Tienes acceso ilimitado para:</p><ul><li><p>Ver todos los <strong>videos sin publicidad</strong>.</p></li><li><p>Disfrutar de <strong>YouTube Music</strong>: escucha toda la música que te gusta, gratis y sin límites, directamente en la televisión.</p></li></ul></li></ul><h3><strong>Música & Tableta</strong></h3><ul><li><p><strong>Altavoz Bluetooth :</strong> Conecta tu smartphone para reproducir tus listas de reproducción o transfiere el sonido de la tableta al altavoz.</p></li><li><p><strong>Tableta Conectada :</strong> A tu disposición para tus búsquedas turísticas, consultar el clima o navegar por la web.</p></li></ul><p></p>",
+        "fr": "<p>Bienvenue dans votre cocon corse ! Pour vos moments de détente après une journée de plage ou de randonnée, nous avons équipé l'appartement du meilleur de la technologie :</p><h3><strong>L'Expérience TV &amp; Musique (Google TV)</strong></h3><p>Profitez d'une <strong>Smart TV</strong> connectée au Wi-Fi haute vitesse avec un accès complet :</p><ul><li><p><strong>Chaînes TNT :</strong> Toutes vos chaînes classiques en haute définition.</p></li><li><p><strong>Vos Applications :</strong> Grâce à l'interface <strong>Google TV</strong>, connectez-vous facilement à vos comptes personnels (Netflix, Disney+, etc.).</p></li><li><p><strong>YouTube Premium :</strong> Le gros point fort du séjour ! Vous avez un accès illimité pour :</p><ul><li><p>Regarder toutes les <strong>vidéos sans aucune publicité</strong>.</p></li><li><p>Profiter de <strong>YouTube Music</strong> : écoutez toute la musique que vous aimez, gratuitement et en illimité, directement sur la télé.</p></li></ul></li></ul><h3><strong>Musique &amp; Tablette</strong></h3><ul><li><p><strong>Enceinte Bluetooth :</strong> Connectez votre smartphone pour diffuser vos playlists ou basculez le son de la tablette sur l'enceinte.</p></li><li><p><strong>Tablette Connectée :</strong> À votre disposition pour vos recherches touristiques, consulter la météo ou naviguer sur le web.</p></li></ul><p></p>",
+        "it": "<p>Benvenuto nel tuo rifugio corsicano! Per i tuoi momenti di relax dopo una giornata in spiaggia o in escursione, abbiamo dotato l'appartamento delle migliori tecnologie :</p><h3><strong>L'Esperienza TV & Musica (Google TV)</strong></h3><p>Goditi una <strong>Smart TV</strong> connessa a Wi-Fi ad alta velocità e accesso completo :</p><ul><li><p><strong>Canali TNT :</strong> Tutti i tuoi canali classici in alta definizione.</p></li><li><p><strong>Le tue App :</strong> Grazie all'interfaccia <strong>Google TV</strong>, accedi facilmente ai tuoi account personali (Netflix, Disney+, ecc.).</p></li><li><p><strong>YouTube Premium :</strong> Il grande punto forte del soggiorno! Hai accesso illimitato per :</p><ul><li><p>Guardare tutti i <strong>video senza pubblicità</strong>.</p></li><li><p>Godere di <strong>YouTube Music</strong> : ascolta tutta la musica che ami, gratuitamente e senza limiti, direttamente sulla TV.</p></li></ul></li></ul><h3><strong>Musica & Tablet</strong></h3><ul><li><p><strong>Altoparlante Bluetooth :</strong> Collega il tuo smartphone per riprodurre le tue playlist o trasferisci il suono dal tablet all'altoparlante.</p></li><li><p><strong>Tablet Connesso :</strong> A tua disposizione per le tue ricerche turistiche, controllare il meteo o navigare in rete.</p></li></ul><p></p>"
+       },
+       "media": [],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "c32211",
+     "title": {
+      "de": "VERKEHR",
+      "en": "TRANSPORTATION",
+      "es": "TRANSPORTES",
+      "fr": "TRANSPORTS",
+      "it": "TRASPORTI"
+     },
+     "icon": "bus",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": []
+    }
+   ]
+  },
+  {
+   "id": "nearby",
+   "type": "nearby",
+   "active": true,
+   "title": {
+    "de": "Um mich herum",
+    "en": "Around me",
+    "es": "A mi alrededor",
+    "fr": "Autour de moi",
+    "it": "Intorno a me"
+   },
+   "icon": "map-2",
+   "image": "media/firefly-ecris-bon-retour-tha-ac7b1f43.webp",
+   "categories": [
+    {
+     "id": "culture",
+     "icon": "building-monument",
+     "title": {
+      "fr": "Culture & Patrimoine",
+      "en": "Culture & Heritage",
+      "es": "Cultura y patrimonio",
+      "de": "Kultur & Erbe",
+      "it": "Cultura e patrimonio"
+     },
+     "subs": [
+      {
+       "id": "tourist_attraction",
+       "icon": "camera",
+       "title": {
+        "fr": "Lieux touristiques",
+        "en": "Tourist Attractions",
+        "es": "Lugares turísticos",
+        "de": "Touristische Orte",
+        "it": "Luoghi turistici"
+       }
+      },
+      {
+       "id": "historical_place",
+       "icon": "building-castle",
+       "title": {
+        "fr": "Sites historiques",
+        "en": "Historical Sites",
+        "es": "Sitios históricos",
+        "de": "Historische Stätten",
+        "it": "Siti storici"
+       }
+      },
+      {
+       "id": "unmissable",
+       "icon": "star",
+       "title": {
+        "fr": "Incontournables",
+        "en": "Must-Sees",
+        "es": "Imprescindibles",
+        "de": "Sehenswürdigkeiten",
+        "it": "Imperdibili"
+       }
+      }
+     ]
+    },
+    {
+     "id": "leisure",
+     "icon": "masks-theater",
+     "title": {
+      "fr": "Divertissement & loisirs",
+      "en": "Entertainment & leisure",
+      "es": "Ocio y entretenimiento",
+      "de": "Unterhaltung & Freizeit",
+      "it": "Divertimento e tempo libero"
+     },
+     "subs": []
+    },
+    {
+     "id": "nature",
+     "icon": "trees",
+     "title": {
+      "fr": "Nature & plein air",
+      "en": "Nature & outdoors",
+      "es": "Naturaleza y aire libre",
+      "de": "Natur & Outdoor",
+      "it": "Natura e aria aperta"
+     },
+     "subs": []
+    },
+    {
+     "id": "restaurants",
+     "icon": "tools-kitchen-2",
+     "title": {
+      "fr": "Restaurants",
+      "en": "Restaurants",
+      "es": "Restaurantes",
+      "de": "Restaurants",
+      "it": "Ristoranti"
+     },
+     "subs": [
+      {
+       "id": "restaurant",
+       "icon": "tools-kitchen-2",
+       "title": {
+        "fr": "Restaurants",
+        "en": "Restaurants",
+        "es": "Restaurantes",
+        "de": "Restaurants",
+        "it": "Ristoranti"
+       }
+      }
+     ]
+    },
+    {
+     "id": "mobility",
+     "icon": "bus",
+     "title": {
+      "fr": "Mobilité & transport",
+      "en": "Mobility & transport",
+      "es": "Movilidad y transporte",
+      "de": "Mobilität & Verkehr",
+      "it": "Mobilità e trasporti"
+     },
+     "subs": []
+    },
+    {
+     "id": "nightlife",
+     "icon": "glass-cocktail",
+     "title": {
+      "fr": "Sorties & vie nocturne",
+      "en": "Going out & nightlife",
+      "es": "Salidas y vida nocturna",
+      "de": "Ausgehen & Nachtleben",
+      "it": "Uscite e vita notturna"
+     },
+     "subs": []
+    },
+    {
+     "id": "services",
+     "icon": "building-bank",
+     "title": {
+      "fr": "Services pratiques",
+      "en": "Practical services",
+      "es": "Servicios prácticos",
+      "de": "Praktische Dienste",
+      "it": "Servizi pratici"
+     },
+     "subs": []
+    },
+    {
+     "id": "health",
+     "icon": "first-aid-kit",
+     "title": {
+      "fr": "Santé & urgences",
+      "en": "Health & emergencies",
+      "es": "Salud y urgencias",
+      "de": "Gesundheit & Notfälle",
+      "it": "Salute ed emergenze"
+     },
+     "subs": []
+    },
+    {
+     "id": "food",
+     "icon": "shopping-cart",
+     "title": {
+      "fr": "Alimentation",
+      "en": "Food",
+      "es": "Alimentación",
+      "de": "Lebensmittel",
+      "it": "Alimentari"
+     },
+     "subs": []
+    },
+    {
+     "id": "discover",
+     "icon": "compass",
+     "title": {
+      "fr": "Découvertes locales",
+      "en": "Local discoveries",
+      "es": "Descubrimientos locales",
+      "de": "Lokale Entdeckungen",
+      "it": "Scoperte locali"
+     },
+     "subs": []
+    },
+    {
+     "id": "sport",
+     "icon": "ball-football",
+     "title": {
+      "fr": "Sport",
+      "en": "Sport",
+      "es": "Deporte",
+      "de": "Sport",
+      "it": "Sport"
+     },
+     "subs": []
+    },
+    {
+     "id": "shopping",
+     "icon": "shopping-bag",
+     "title": {
+      "fr": "Shopping",
+      "en": "Shopping",
+      "es": "Compras",
+      "de": "Shopping",
+      "it": "Shopping"
+     },
+     "subs": []
+    },
+    {
+     "id": "shops",
+     "icon": "building-store",
+     "title": {
+      "fr": "Commerces",
+      "en": "Shops",
+      "es": "Comercios",
+      "de": "Geschäfte",
+      "it": "Negozi"
+     },
+     "subs": [
+      {
+       "id": "store",
+       "icon": "building-store",
+       "title": {
+        "fr": "Magasins",
+        "en": "Shops",
+        "es": "Tiendas",
+        "de": "Geschäfte",
+        "it": "Negozi"
+       }
+      }
+     ]
+    },
+    {
+     "id": "wellness",
+     "icon": "massage",
+     "title": {
+      "fr": "Bien-être",
+      "en": "Wellness",
+      "es": "Bienestar",
+      "de": "Wellness",
+      "it": "Benessere"
+     },
+     "subs": []
+    },
+    {
+     "id": "home-emergency",
+     "icon": "tool",
+     "title": {
+      "fr": "Urgences domestiques",
+      "en": "Home emergencies",
+      "es": "Urgencias domésticas",
+      "de": "Haushaltsnotfälle",
+      "it": "Emergenze domestiche"
+     },
+     "subs": []
+    },
+    {
+     "id": "institutions",
+     "icon": "building-community",
+     "title": {
+      "fr": "Institutions",
+      "en": "Institutions",
+      "es": "Instituciones",
+      "de": "Institutionen",
+      "it": "Istituzioni"
+     },
+     "subs": []
+    }
+   ],
+   "places": [
+    {
+     "id": "8fd4d443",
+     "name": "SPAR SUPERMARCHÉ",
+     "category": "shops",
+     "sub": "store",
+     "favorite": false,
+     "lat": 42.6377426,
+     "lng": 9.0207692,
+     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "phone": "04 95 58 19 89",
+     "website": "http://puța.fr/",
+     "rating": 4.2,
+     "ratingCount": 201,
+     "type": {
+      "fr": "Résidence hôtelière",
+      "en": "Résidence hôtelière",
+      "es": "Résidence hôtelière",
+      "de": "Résidence hôtelière",
+      "it": "Résidence hôtelière"
+     },
+     "summary": {
+      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
+     },
+     "remarks": {},
+     "photo": "media/spar-supermarch-d00f9308.webp",
+     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 1.197,
+     "active": true
+    },
+    {
+     "id": "c543834a",
+     "name": "Corsica Roadster - Activité touristique Corse",
+     "category": "culture",
+     "sub": "tourist_attraction",
+     "favorite": false,
+     "lat": 42.6377106,
+     "lng": 9.0218223,
+     "address": "Spar de, Lozari, 20226 Belgodère, France",
+     "phone": "06 37 47 78 56",
+     "website": "https://www.corsicaroadster.fr/",
+     "rating": 4.8,
+     "ratingCount": 121,
+     "type": {
+      "fr": "Agence de voyages",
+      "en": "Agence de voyages",
+      "es": "Agence de voyages",
+      "de": "Agence de voyages",
+      "it": "Agence de voyages"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/corsica-roadster-activit-tou-43a0f6cc.webp",
+     "mapsUrl": "https://maps.google.com/?cid=6293906667327456479&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.235,
+     "active": true
+    },
+    {
+     "id": "2fb47722",
+     "name": "Vava'u Chez Taté",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": true,
+     "lat": 42.641165,
+     "lng": 9.0154614,
+     "address": "Plage de Lozari, Belgodère, France",
+     "phone": "",
+     "website": "https://www.visit-corsica.com/fre/infotour/plages/id/64/idEz/28156/page/1/Plan-my-holiday/What-to-see-and-do/Beaches-and-swimming",
+     "rating": 4.6,
+     "ratingCount": 1148,
+     "type": {
+      "fr": "Attraction touristique",
+      "en": "Attraction touristique",
+      "es": "Attraction touristique",
+      "de": "Attraction touristique",
+      "it": "Attraction touristique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/vava-u-chez-tat-34fffee5.webp",
+     "mapsUrl": "https://maps.google.com/?cid=4071875329492353621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 1.453,
+     "active": true
+    },
+    {
+     "id": "6e03a1f9",
+     "name": "Tour Génoise de Lozari à Belgodère",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.6415036,
+     "lng": 9.0056143,
+     "address": "Capicciolo, 20226 Belgodère, France",
+     "phone": "",
+     "website": "https://www.visit-corsica.com/fr/Mon-sejour/Patrimoine-culturel/Tout-le-patrimoine-culturel/TOUR-DE-LOZARI",
+     "rating": 4.7,
+     "ratingCount": 98,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=13160854058507537010&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.645,
+     "active": true
+    },
+    {
+     "id": "d9bc5667",
+     "name": "Plage de Lumio",
+     "category": "culture",
+     "sub": "unmissable",
+     "favorite": false,
+     "lat": 42.5980624,
+     "lng": 8.8107539,
+     "address": "Plage, Lumio, France",
+     "phone": "",
+     "website": "",
+     "rating": 3.7,
+     "ratingCount": 3,
+     "type": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=7843739844229139249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 16.981,
+     "active": true
+    },
+    {
+     "id": "5332ada8",
+     "name": "Bergerie de frassigna",
+     "category": "culture",
+     "sub": "unmissable",
+     "favorite": false,
+     "lat": 42.6309548,
+     "lng": 9.0248803,
+     "address": "94 Piaghja Di l'Osari, 20226 Palasca, France",
+     "phone": "",
+     "website": "",
+     "rating": null,
+     "ratingCount": 0,
+     "type": {
+      "fr": "Construction",
+      "en": "Construction",
+      "es": "Construction",
+      "de": "Construction",
+      "it": "Construction"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=7204963464756440710&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 0.929,
+     "active": true
+    },
+    {
+     "id": "793741d8",
+     "name": "BOULANGERIE SPIGA",
+     "category": "shops",
+     "sub": "store",
+     "favorite": false,
+     "lat": 42.6377426,
+     "lng": 9.0207692,
+     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "phone": "04 95 58 19 89",
+     "website": "http://puța.fr/",
+     "rating": 4.2,
+     "ratingCount": 201,
+     "type": {
+      "fr": "Résidence hôtelière",
+      "en": "Résidence hôtelière",
+      "es": "Résidence hôtelière",
+      "de": "Résidence hôtelière",
+      "it": "Résidence hôtelière"
+     },
+     "summary": {
+      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
+     },
+     "remarks": {},
+     "photo": "media/spar-supermarch-d00f9308.webp",
+     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 1.197,
+     "active": true
+    },
+    {
+     "id": "9f96e88d",
+     "name": "AutentiCorsica - Agence de voyage et Excursions en 4x4",
+     "category": "culture",
+     "sub": "tourist_attraction",
+     "favorite": false,
+     "lat": 42.6380524,
+     "lng": 9.0211775,
+     "address": "Lozari, 20226 Palasca, France",
+     "phone": "06 38 77 43 19",
+     "website": "http://www.autenticorsica.com/",
+     "rating": 5.0,
+     "ratingCount": 73,
+     "type": {
+      "fr": "Agence de voyages",
+      "en": "Agence de voyages",
+      "es": "Agence de voyages",
+      "de": "Agence de voyages",
+      "it": "Agence de voyages"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/autenticorsica-agence-de-voy-da0c736f.webp",
+     "mapsUrl": "https://maps.google.com/?cid=9242055901315251918&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.243,
+     "active": true
+    },
+    {
+     "id": "e98ddb82",
+     "name": "Tour de Saleccia, 20220 Monticello",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.639994,
+     "lng": 8.975302,
+     "address": "JXQG+X4, Monticello, France",
+     "phone": "",
+     "website": "https://www.corse24.com/tour-de-saleccia-a-monticello-decouvrez-ce-tresor-cache/",
+     "rating": 5.0,
+     "ratingCount": 1,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=244289865534250062&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 3.444,
+     "active": true
+    },
+    {
+     "id": "63ed9844",
+     "name": "CHEZ DUME.O",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": true,
+     "lat": 42.58584,
+     "lng": 9.017958,
+     "address": "20226 Belgodère, France",
+     "phone": "",
+     "website": "",
+     "rating": null,
+     "ratingCount": 0,
+     "type": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=783496337058599050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 4.712,
+     "active": true
+    },
+    {
+     "id": "bfc65b44",
+     "name": "U Clandestinu",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": true,
+     "lat": 42.6309597,
+     "lng": 9.0248936,
+     "address": "94 Piaghja Di l'Osari, 20226 Palasca, France",
+     "phone": "06 13 58 04 91",
+     "website": "",
+     "rating": 4.7,
+     "ratingCount": 77,
+     "type": {
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurant",
+      "de": "Restaurant",
+      "it": "Restaurant"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/u-clandestinu-072b680b.webp",
+     "mapsUrl": "https://maps.google.com/?cid=13427566452471449286&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 0.93,
+     "active": true
+    },
+    {
+     "id": "6a268267",
+     "name": "TABAC PRESSE SOUVENIRS",
+     "category": "shops",
+     "sub": "store",
+     "favorite": false,
+     "lat": 42.6377426,
+     "lng": 9.0207692,
+     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "phone": "04 95 58 19 89",
+     "website": "http://puța.fr/",
+     "rating": 4.2,
+     "ratingCount": 201,
+     "type": {
+      "fr": "Résidence hôtelière",
+      "en": "Résidence hôtelière",
+      "es": "Résidence hôtelière",
+      "de": "Résidence hôtelière",
+      "it": "Résidence hôtelière"
+     },
+     "summary": {
+      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
+     },
+     "remarks": {},
+     "photo": "media/spar-supermarch-d00f9308.webp",
+     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 1.197,
+     "active": true
+    },
+    {
+     "id": "16e720fc",
+     "name": "Plage de Lozari",
+     "category": "culture",
+     "sub": "tourist_attraction",
+     "favorite": false,
+     "lat": 42.641165,
+     "lng": 9.0154614,
+     "address": "Plage de Lozari, 20226 Belgodère, France",
+     "phone": "",
+     "website": "https://www.visit-corsica.com/fre/infotour/plages/id/64/idEz/28156/page/1/Plan-my-holiday/What-to-see-and-do/Beaches-and-swimming",
+     "rating": 4.6,
+     "ratingCount": 1148,
+     "type": {
+      "fr": "Attraction touristique",
+      "en": "Attraction touristique",
+      "es": "Attraction touristique",
+      "de": "Attraction touristique",
+      "it": "Attraction touristique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/vava-u-chez-tat-34fffee5.webp",
+     "mapsUrl": "https://maps.google.com/?cid=4071875329492353621&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.453,
+     "active": true
+    },
+    {
+     "id": "5346a67a",
+     "name": "FAMILLE de MONTI ROSSI ROLAND",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.5924192,
+     "lng": 9.0406597,
+     "address": "7243 D163, 20226 Palasca, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.5,
+     "ratingCount": 6,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=13744105103525150522&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 4.523,
+     "active": true
+    },
+    {
+     "id": "d1609a3c",
+     "name": "Pont Génois d'Asco",
+     "category": "culture",
+     "sub": "unmissable",
+     "favorite": false,
+     "lat": 42.456289,
+     "lng": 9.055731999999999,
+     "address": "Gorges de l'Asco, 20276 Asco, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.8,
+     "ratingCount": 127,
+     "type": {
+      "fr": "Élément naturel",
+      "en": "Élément naturel",
+      "es": "Élément naturel",
+      "de": "Élément naturel",
+      "it": "Élément naturel"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=17777974952631403277&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 19.408,
+     "active": true
+    },
+    {
+     "id": "3cbcec36",
+     "name": "Restaurant Les Mouettes",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6362704,
+     "lng": 9.0127829,
+     "address": "Lieu dit Lozari, 20226 Belgodère, France",
+     "phone": "04 95 60 09 32",
+     "website": "",
+     "rating": 4.3,
+     "ratingCount": 539,
+     "type": {
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurant",
+      "de": "Restaurant",
+      "it": "Restaurant"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/restaurant-les-mouettes-465e24cf.webp",
+     "mapsUrl": "https://maps.google.com/?cid=2329248009618617756&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 0.913,
+     "active": true
+    },
+    {
+     "id": "c2f2b312",
+     "name": "LES DELICES DE JULIETTE",
+     "category": "shops",
+     "sub": "store",
+     "favorite": false,
+     "lat": 42.6377426,
+     "lng": 9.0207692,
+     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "phone": "04 95 58 19 89",
+     "website": "http://puța.fr/",
+     "rating": 4.2,
+     "ratingCount": 201,
+     "type": {
+      "fr": "Résidence hôtelière",
+      "en": "Résidence hôtelière",
+      "es": "Résidence hôtelière",
+      "de": "Résidence hôtelière",
+      "it": "Résidence hôtelière"
+     },
+     "summary": {
+      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
+      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
+     },
+     "remarks": {},
+     "photo": "media/spar-supermarch-d00f9308.webp",
+     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 1.197,
+     "active": true
+    },
+    {
+     "id": "02538df8",
+     "name": "Parc de Saleccia",
+     "category": "culture",
+     "sub": "tourist_attraction",
+     "favorite": false,
+     "lat": 42.6361969,
+     "lng": 8.9790976,
+     "address": "Route de Bastia, 20220 L'Île-Rousse, France",
+     "phone": "04 95 36 88 83",
+     "website": "http://www.parc-saleccia.fr/",
+     "rating": 4.3,
+     "ratingCount": 1869,
+     "type": {
+      "fr": "Jardin botanique",
+      "en": "Jardin botanique",
+      "es": "Jardin botanique",
+      "de": "Jardin botanique",
+      "it": "Jardin botanique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=16788309214204148728&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 3.008,
+     "active": true
+    },
+    {
+     "id": "716b50db",
+     "name": "plage de l'ostriconi",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.6619465,
+     "lng": 9.0607887,
+     "address": "Place Paoli, 20220 L'Île-Rousse, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.6,
+     "ratingCount": 44,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=5647176461794956434&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 5.354,
+     "active": true
+    },
+    {
+     "id": "9b469673",
+     "name": "Cascade d’Aitone",
+     "category": "culture",
+     "sub": "unmissable",
+     "favorite": true,
+     "lat": 42.253563,
+     "lng": 8.803588999999999,
+     "address": "20126 Évisa, France",
+     "phone": "",
+     "website": "",
+     "rating": null,
+     "ratingCount": 0,
+     "type": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=290510376680119408&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 45.093,
+     "active": true
+    },
+    {
+     "id": "1650d1e5",
+     "name": "Poulets de Lozari",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6364435,
+     "lng": 9.0133347,
+     "address": "118 RT301 lozari, 20226 Belgodère, France",
+     "phone": "06 82 34 33 83",
+     "website": "https://www.pouletsrotis.fr/",
+     "rating": 5.0,
+     "ratingCount": 6,
+     "type": {
+      "fr": "Restaurant de plats à emporter",
+      "en": "Restaurant de plats à emporter",
+      "es": "Restaurant de plats à emporter",
+      "de": "Restaurant de plats à emporter",
+      "it": "Restaurant de plats à emporter"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=3363084894605504836&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 0.927,
+     "active": true
+    },
+    {
+     "id": "ddc99004",
+     "name": "Teghje",
+     "category": "culture",
+     "sub": "tourist_attraction",
+     "favorite": false,
+     "lat": 42.5861488,
+     "lng": 9.0162805,
+     "address": "VINCENTELLI, Mezzanile, 20226 Belgodère, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.8,
+     "ratingCount": 13,
+     "type": {
+      "fr": "Attraction touristique",
+      "en": "Attraction touristique",
+      "es": "Attraction touristique",
+      "de": "Attraction touristique",
+      "it": "Attraction touristique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {
+      "fr": "<h2><em>Les vestiges de la tour de guet médiévale E Teghje du XVIème siècle dominent le village. Une statue du Sacré Cœur de Jésus y est dressée depuis l'été 1991. C'est un remarquable point de vue sur la vallée du Réginu.</em></h2><p></p>",
+      "en": "<h2><em>The remains of the 16th-century medieval watchtower E Teghje overlook the village. A statue of the Sacred Heart of Jesus has stood there since the summer of 1991. It offers a remarkable view of the Réginu valley.</em></h2><p></p>",
+      "es": "<h2><em>Las ruinas de la torre de vigilancia medieval E Teghje del siglo XVI dominan el pueblo. Desde el verano de 1991, se erige una estatua del Sagrado Corazón de Jesús. Es un punto de vista excepcional sobre el valle del Réginu.</em></h2><p></p>",
+      "de": "<h2><em>Die Überreste des mittelalterlichen Wachturms E Teghje aus dem 16. Jahrhundert überblicken das Dorf. Seit Sommer 1991 steht dort eine Statue des Heiligsten Herzens Jesu. Es ist ein bemerkenswerter Aussichtspunkt über das Réginu-Tal.</em></h2><p></p>",
+      "it": "<h2><em>Le rovine della torre di avvistamento medievale E Teghje del XVI secolo dominano il villaggio. Una statua del Sacro Cuore di Gesù è stata eretta qui dall'estate del 1991. È un punto di vista straordinario sulla valle del Réginu.</em></h2><p></p>"
+     },
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=8179654202991233665&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 4.671,
+     "active": true
+    },
+    {
+     "id": "9b97e24d",
+     "name": "Ruins de Vortica",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.6158,
+     "lng": 8.948218,
+     "address": "Ruines de Vortica, 20220 Monticello, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.5,
+     "ratingCount": 2,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=10774063779464348778&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 5.57,
+     "active": true
+    },
+    {
+     "id": "299cc800",
+     "name": "Saleccia-off-road",
+     "category": "culture",
+     "sub": "unmissable",
+     "favorite": false,
+     "lat": 42.6617574,
+     "lng": 9.2370121,
+     "address": "Saleccia Off Road / Navette Saleccia 4x4 - Plages de Saleccia & Lotu - Évasion en 4x4 et Bateau dans les Agriates, Strada di Casta, Santo-Pietro-di-Tenda, France",
+     "phone": "06 64 00 38 92",
+     "website": "https://www.saleccia-off-road.com/",
+     "rating": 4.9,
+     "ratingCount": 1177,
+     "type": {
+      "fr": "Agence de voyages",
+      "en": "Agence de voyages",
+      "es": "Agence de voyages",
+      "de": "Agence de voyages",
+      "it": "Agence de voyages"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/saleccia-off-road-7d736d0e.webp",
+     "mapsUrl": "https://maps.google.com/?cid=10087213579787522489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 18.604,
+     "active": true
+    },
+    {
+     "id": "2ed5d060",
+     "name": "le local",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6378897,
+     "lng": 9.0226345,
+     "address": "Lieu dit, Plage de Lozari, Stazzola, 20226 Belgodère, France",
+     "phone": "04 95 32 47 92",
+     "website": "",
+     "rating": 4.6,
+     "ratingCount": 104,
+     "type": {
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurant",
+      "de": "Restaurant",
+      "it": "Restaurant"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/le-local-4a0b4674.webp",
+     "mapsUrl": "https://maps.google.com/?cid=16237370639695934209&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.287,
+     "active": true
+    },
+    {
+     "id": "2c3c598f",
+     "name": "Balade à cheval Arbo Valley",
+     "category": "culture",
+     "sub": "tourist_attraction",
+     "favorite": false,
+     "lat": 42.65354,
+     "lng": 9.0696698,
+     "address": "M339+6V, 20226 Palasca, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.0,
+     "ratingCount": 2,
+     "type": {
+      "fr": "Attraction touristique",
+      "en": "Attraction touristique",
+      "es": "Attraction touristique",
+      "de": "Attraction touristique",
+      "it": "Attraction touristique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=14298859174198766190&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 5.346,
+     "active": true
+    },
+    {
+     "id": "7e092098",
+     "name": "Tour Génoise - Torra Ghjenuvese",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.630278,
+     "lng": 8.938793,
+     "address": "Ecole Petit Prince, 20220 L'Île-Rousse, France",
+     "phone": "",
+     "website": "",
+     "rating": 5.0,
+     "ratingCount": 1,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=8508858000631942389&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 6.173,
+     "active": true
+    },
+    {
+     "id": "462bde26",
+     "name": "L'Atelier du Chef",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6385734,
+     "lng": 9.0214162,
+     "address": "Lieu-dit Via Stazzola, Lozari, 20226 Belgodère, France",
+     "phone": "04 95 60 70 71",
+     "website": "https://www.latelierduchef.net/",
+     "rating": 4.7,
+     "ratingCount": 7,
+     "type": {
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurant",
+      "de": "Restaurant",
+      "it": "Restaurant"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/l-atelier-du-chef-de14690e.webp",
+     "mapsUrl": "https://maps.google.com/?cid=2214879378131913772&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.303,
+     "active": true
+    },
+    {
+     "id": "e9cadad8",
+     "name": "Église ruinée Pieve di San Ghjuvanni",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.5711928,
+     "lng": 8.9954025,
+     "address": "Convento à Tuani, 20279 Costa, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.5,
+     "ratingCount": 2,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=5072516255863426348&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 6.515,
+     "active": true
+    },
+    {
+     "id": "78efe4b9",
+     "name": "Lepirate",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6384789,
+     "lng": 9.0217384,
+     "address": "Place via, Stazzola, 20226 Belgodère, France",
+     "phone": "06 31 26 96 52",
+     "website": "",
+     "rating": null,
+     "ratingCount": 0,
+     "type": {
+      "fr": "Snack",
+      "en": "Snack",
+      "es": "Snack",
+      "de": "Snack",
+      "it": "Snack"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=4486649998808686076&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.306,
+     "active": true
+    },
+    {
+     "id": "0f3257f0",
+     "name": "Ile rousse",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": true,
+     "lat": 42.6396148,
+     "lng": 8.9350073,
+     "address": "Rte du Port, 20220 L'Île-Rousse, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.4,
+     "ratingCount": 18,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=9200772946753631449&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 6.603,
+     "active": true
+    },
+    {
+     "id": "2b4361f2",
+     "name": "Le Vin226 Restaurant Tapas",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6384005,
+     "lng": 9.0219811,
+     "address": "Via, Stazzola, 20226 Lozari, France",
+     "phone": "06 77 56 04 07",
+     "website": "https://www.le-vin-226-restaurant-lozari.fr/",
+     "rating": 4.7,
+     "ratingCount": 263,
+     "type": {
+      "fr": "Restaurant de tapas",
+      "en": "Restaurant de tapas",
+      "es": "Restaurant de tapas",
+      "de": "Restaurant de tapas",
+      "it": "Restaurant de tapas"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/le-vin226-restaurant-tapas-cce30750.webp",
+     "mapsUrl": "https://maps.google.com/?cid=612717234327436959&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.308,
+     "active": true
+    },
+    {
+     "id": "0714d53f",
+     "name": "Cabanon des Douaniers",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.6444217,
+     "lng": 8.9334689,
+     "address": "Phare La Pietra, Pietra, 20220 L'Île-Rousse, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.7,
+     "ratingCount": 3,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=3152312843618264866&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 6.848,
+     "active": true
+    },
+    {
+     "id": "80be6290",
+     "name": "Glacier & Salon de thé A Balanina",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6385186,
+     "lng": 9.0218001,
+     "address": "Via Stazzola, Lozari, 20226 Belgodère, France",
+     "phone": "04 95 58 69 29",
+     "website": "",
+     "rating": 4.1,
+     "ratingCount": 51,
+     "type": {
+      "fr": "Restaurant coréen",
+      "en": "Restaurant coréen",
+      "es": "Restaurant coréen",
+      "de": "Restaurant coréen",
+      "it": "Restaurant coréen"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/glacier-salon-de-th-a-balani-916adb43.webp",
+     "mapsUrl": "https://maps.google.com/?cid=14520897447533317965&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.312,
+     "active": true
+    },
+    {
+     "id": "5f163b34",
+     "name": "Phare de la Pietra - Fanale di Petra",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": false,
+     "lat": 42.6445946,
+     "lng": 8.932097,
+     "address": "20220 L'Île-Rousse, France",
+     "phone": "",
+     "website": "",
+     "rating": 4.7,
+     "ratingCount": 1441,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
+      "en": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
+      "es": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
+      "de": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
+      "it": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer."
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?cid=10788926794427732644&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 6.961,
+     "active": true
+    },
+    {
+     "id": "c35b25df",
+     "name": "Restaurant Le Pavillon",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.639953,
+     "lng": 9.0131715,
+     "address": "Hameau, Lozari, 20226 Belgodère, France",
+     "phone": "04 95 60 32 28",
+     "website": "",
+     "rating": 4.0,
+     "ratingCount": 397,
+     "type": {
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurant",
+      "de": "Restaurant",
+      "it": "Restaurant"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/restaurant-le-pavillon-95b65e21.webp",
+     "mapsUrl": "https://maps.google.com/?cid=11405964993122673452&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.318,
+     "active": true
+    },
+    {
+     "id": "18accd08",
+     "name": "Citadelle de Calvi",
+     "category": "culture",
+     "sub": "historical_place",
+     "favorite": true,
+     "lat": 42.5681968,
+     "lng": 8.7605534,
+     "address": "Citadelle de Calvi, Haute ville, Calvi, France",
+     "phone": "04 95 65 16 67",
+     "website": "http://www.calvi-tourisme.com/citadelle-tour-sel-calvi.html",
+     "rating": 4.5,
+     "ratingCount": 11861,
+     "type": {
+      "fr": "Site historique",
+      "en": "Site historique",
+      "es": "Site historique",
+      "de": "Site historique",
+      "it": "Site historique"
+     },
+     "summary": {
+      "fr": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
+      "en": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
+      "es": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
+      "de": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
+      "it": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb."
+     },
+     "remarks": {},
+     "photo": "media/citadelle-de-calvi-65169e9c.webp",
+     "mapsUrl": "https://maps.google.com/?cid=949839436218934316&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 21.804,
+     "active": true
+    },
+    {
+     "id": "56763c31",
+     "name": "Pizza Livia",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.6385692,
+     "lng": 9.0219059,
+     "address": "Via, Stazzola, 20226 Belgodère, France",
+     "phone": "06 70 77 04 48",
+     "website": "",
+     "rating": 4.3,
+     "ratingCount": 126,
+     "type": {
+      "fr": "Pizzeria",
+      "en": "Pizzeria",
+      "es": "Pizzeria",
+      "de": "Pizzeria",
+      "it": "Pizzeria"
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "media/pizza-livia-48002f25.webp",
+     "mapsUrl": "https://maps.google.com/?cid=12647775095505307069&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "distance": 1.321,
+     "active": true
+    },
+    {
+     "id": "9c1e0b82",
+     "name": "A CASARELLA",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.5991799,
+     "lng": 8.9021,
+     "address": "Stretta Di de Franchi, 20220 Pigna, France",
+     "phone": "",
+     "website": "",
+     "rating": null,
+     "ratingCount": 0,
+     "type": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "summary": {
+      "fr": "",
+      "en": "",
+      "es": "",
+      "de": "",
+      "it": ""
+     },
+     "remarks": {},
+     "photo": "",
+     "mapsUrl": "https://maps.google.com/?q=Stretta+Di+de+Franchi,+20220+Pigna,+France&ftid=0x12d0c3de21854779:0x9a0a1f41c7d1ffc1&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 9.721,
+     "active": true
+    },
+    {
+     "id": "163e223d",
+     "name": "CHEZ EDGARD",
+     "category": "restaurants",
+     "sub": "restaurant",
+     "favorite": false,
+     "lat": 42.5739615,
+     "lng": 8.8782436,
+     "address": "Ferme Auberge Chez Edgard, 20225 Lavatoggio, France",
+     "phone": "04 95 61 70 75",
+     "website": "http://www.chez-edgard.fr/",
+     "rating": 4.8,
+     "ratingCount": 1963,
+     "type": {
+      "fr": "Restaurant français",
+      "en": "Restaurant français",
+      "es": "Restaurant français",
+      "de": "Restaurant français",
+      "it": "Restaurant français"
+     },
+     "summary": {
+      "fr": "Dans une ancienne bâtisse avec moulin à huile, cuisine régionale aux produits du terroirs (sanglier, veau...).",
+      "en": "Dans une ancienne bâtisse avec moulin à huile, cuisine régionale aux produits du terroirs (sanglier, veau...).",
+      "es": "Dans une ancienne bâtisse avec moulin à huile, cuisine régionale aux produits du terroirs (sanglier, veau...).",
+      "de": "Dans une ancienne bâtisse avec moulin à huile, cuisine régionale aux produits du terroirs (sanglier, veau...).",
+      "it": "Dans une ancienne bâtisse avec moulin à huile, cuisine régionale aux produits du terroirs (sanglier, veau...)."
+     },
+     "remarks": {},
+     "photo": "media/chez-edgard-41f56c88.webp",
+     "mapsUrl": "https://maps.google.com/?cid=2957762965568948860&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "distance": 12.653,
+     "active": true
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "type": "contacts",
+   "active": true,
+   "title": {
+    "de": "Nützliche Nummern",
+    "en": "Useful numbers",
+    "es": "Números útiles",
+    "fr": "Numéros utiles",
+    "it": "Numeri utili"
+   },
+   "icon": "address-book",
+   "image": "media/hero-numbers-95defb03.webp",
+   "items": [
+    {
+     "id": "f14a5d0c",
+     "name": {
+      "de": "KLINIK CALVI BALAGNE, Ortsteil Guazzole, 20260 Calvi",
+      "en": "CALVI BALAGNE HOSPITAL, Guazzole, 20260 Calvi",
+      "es": "CENTRO HOSPITALARIO CALVI BALAGNE Lieu Dit Guazzole, 20260 Calvi",
+      "fr": "CENTRE HOSPITALIER CALVI BALAGNE Lieu Dit Guazzole, 20260 Calvi",
+      "it": "CENTRO OSPEDALIERO CALVI BALAGNE Lieu Dit Guazzole, 20260 Calvi"
+     },
+     "phone": "+33974565738",
+     "whatsapp": "",
+     "description": {},
+     "photo": "media/contact-dcc64d71.webp"
+    },
+    {
+     "id": "953f9c8c",
+     "name": {
+      "de": "Apotheke Savelli / Apotheke des Marktes, 1 Avenue Piccioni / Place Pascal Paoli, 20220 L’Île Rousse",
+      "en": "Savelli Pharmacy / Market Pharmacy, 1 Avenue Piccioni / Place Pascal Paoli, 20220 L’Île Rousse",
+      "es": "Farmacia Savelli / Farmacia del Mercado 1 avenida Piccioni / Plaza Pascal Paoli 20220 L’Île Rousse",
+      "fr": "Pharmacie Savelli / Pharmacie du Marché 1 avenue Piccioni / Place Pascal Paoli 20220 L’Île Rousse",
+      "it": "Farmacia Savelli / Farmacia del Mercato 1 avenue Piccioni / Place Pascal Paoli 20220 L’Île Rousse"
+     },
+     "phone": "+33495600062",
+     "whatsapp": "+334 95 60 00 16",
+     "description": {},
+     "photo": "media/contact-920a4d55.webp"
+    }
+   ]
+  },
+  {
+   "id": "checkout",
+   "type": "info",
+   "active": true,
+   "title": {
+    "de": "Abreise-Info",
+    "en": "Departure info",
+    "es": "Información de salida",
+    "fr": "Infos départ",
+    "it": "Informazioni sulla partenza"
+   },
+   "icon": "luggage",
+   "image": "media/hero-checkout-d3829437.webp",
+   "categories": [
+    {
+     "id": "d13",
+     "title": {
+      "de": "Startzeitfenster",
+      "en": "Start time slot",
+      "es": "Ranura de tiempo de inicio",
+      "fr": "Tranche horaire départ",
+      "it": "Fascia oraria di inizio"
+     },
+     "icon": "clock",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "48958fa2",
+       "title": {
+        "de": "ABREISE 10 UHR",
+        "en": "DEPARTURE 10 AM",
+        "es": "SALIDA 10H",
+        "fr": "DÉPART 10H",
+        "it": "PARTENZA 10:00"
+       },
+       "html": {
+        "de": "<p>Wir hoffen, dass Sie einen angenehmen Aufenthalt hatten.</p><p>Wir möchten Sie darüber informieren, dass die geplante Abreisezeit um 10 Uhr ist.</p><p>Vielen Dank, dass Sie sich für unsere Unterkunft entschieden haben, und wir hoffen, dass Sie</p><p>schöne Erinnerungen an Ihren Aufenthalt behalten werden.</p><p>Wenn Sie vor Ihrer Abreise noch weitere Fragen haben, zögern Sie bitte</p><p>nicht, uns zu kontaktieren.</p><p>Wir wünschen Ihnen eine gute Heimreise und würden uns freuen, Sie</p><p>wieder bei uns begrüßen zu dürfen!</p>",
+        "en": "<p>We hope you had a pleasant stay.</p><p>We would like to inform you that the scheduled check-out time is at 10 AM.</p><p>Thank you for choosing our rental, and we hope you</p><p>will keep fond memories of your stay.</p><p>If you have any further questions before your departure, please</p><p>feel free to contact us.</p><p>We wish you a safe journey home and would be delighted to welcome you</p><p>back again!</p>",
+        "es": "<p>Esperamos que haya tenido una agradable estancia.</p><p>Queremos informarle que la hora de salida prevista es a las 10h.</p><p>Le agradecemos por elegir nuestro alojamiento y esperamos que</p><p>guarde un buen recuerdo de su estancia.</p><p>Si tiene alguna pregunta adicional antes de su partida, no dude</p><p>en contactarnos.</p><p>Le deseamos un buen regreso a casa y estaremos encantados de</p><p>recibirle nuevamente!</p>",
+        "fr": "<p>Nous espérons que vous avez passé un agréable séjour.</p><p>Nous tenions à vous informer que l'heure de départ prévue est à 10h.</p><p>Nous vous remercions d'avoir choisi notre location et espérons que vous</p><p>garderez un bon souvenir de votre séjour.</p><p>Si vous avez des questions supplémentaires avant votre départ, n'hésitez</p><p>pas à nous contacter.</p><p>Nous vous souhaitons un bon retour chez vous et serions ravis de vous</p><p>accueillir à nouveau !</p>",
+        "it": "<p>Speriamo che il vostro soggiorno sia stato piacevole.</p><p>Vogliamo informarvi che l'orario di partenza previsto è alle 10:00.</p><p>Vi ringraziamo per aver scelto la nostra struttura e speriamo che</p><p>porterete con voi un bel ricordo del vostro soggiorno.</p><p>Se avete ulteriori domande prima della partenza, non esitate</p><p>a contattarci.</p><p>Vi auguriamo un buon ritorno a casa e saremmo felici di accogliervi</p><p>di nuovo!</p>"
+       },
+       "media": [
+        {
+         "type": "image",
+         "src": "media/firefly-ecris-bon-retour-tha-ac7b1f43.webp"
+        }
+       ],
+       "active": true
+      }
+     ]
+    },
+    {
+     "id": "c14167",
+     "title": {
+      "de": "VOR DER ABREISE NICHT VERGESSEN!",
+      "en": "THINGS TO REMEMBER BEFORE YOU LEAVE!",
+      "es": "¡ANTES DE IRSE, NO OLVIDAR!",
+      "fr": "AVANT DE PARTIR À NE PAS OUBLIER !",
+      "it": "PRIMA DI PARTIRE NON DIMENTICATE!"
+     },
+     "icon": "list-check",
+     "description": {},
+     "redirect": "",
+     "active": true,
+     "records": [
+      {
+       "id": "020858ce",
+       "title": {
+        "de": "VOR DER ABREISE NICHT VERGESSEN!",
+        "en": "BEFORE YOU LEAVE, DON'T FORGET!",
+        "es": "¡ANTES DE IR, NO OLVIDES!",
+        "fr": "AVANT DE PARTIR À NE PAS OUBLIER !",
+        "it": "PRIMA DI PARTIRE NON DIMENTICARE!"
+       },
+       "html": {
+        "de": "<p>Liebe Reisende, ✈️</p><p>Wir hoffen, dass Ihr Aufenthalt angenehm und komfortabel war. 😊</p><p>Um Ihnen die Abreise zu erleichtern, möchten wir Sie an einige</p><p>wichtige Punkte erinnern, die Sie nicht vergessen sollten:</p><p></p><ul><li><p>Bitte überprüfen Sie, ob Sie nichts in den Schränken, Schubladen, dem</p></li></ul><p>Badezimmer oder in einem anderen Raum des Hauses vergessen haben. 🏠</p><p></p><ul><li><p>Stellen Sie sicher, dass alle Fenster und Türen ordnungsgemäß</p></li></ul><p>geschlossen sind, bevor Sie die Wohnung verlassen. 🚪🔒</p><p></p><ul><li><p>Wenn Sie die Küche genutzt haben, reinigen Sie bitte die Utensilien und Geräte, die</p></li></ul><p>Sie verwendet haben, sowie die Arbeitsfläche und die Kochplatten. 🍽️✨</p><p></p><ul><li><p>Vergessen Sie nicht, den Müll zu leeren und ihn am Sammelpunkt in Lozari</p></li></ul><p>neben dem Spar abzugeben. 🗑️📍</p><p></p><ul><li><p>Bitte schalten Sie vor Ihrer Abreise alle Lichter, elektrischen Geräte</p></li></ul><p>und die Klimaanlage aus. 💡🔌❄️</p><p></p><p>Wir danken Ihnen für Ihre Kooperation und Ihr Verständnis. 🙏</p><p>Wir hoffen, dass Sie Ihren Aufenthalt genossen haben und dass wir die Gelegenheit</p><p>haben werden, Sie in Zukunft wieder willkommen zu heißen. 🌟</p>",
+        "en": "<p>Dear travelers, ✈️</p><p>We hope your stay has been enjoyable and comfortable. 😊</p><p>To make your departure easier, we would like to remind you of a few important things</p><p>not to forget:</p><p></p><ul><li><p>Please check that you haven't left anything behind in the cupboards, drawers, the</p></li></ul><p>bathroom, or any other room in the house. 🏠</p><p></p><ul><li><p>Make sure all windows and doors are securely closed</p></li></ul><p>before leaving the apartment. 🚪🔒</p><p></p><ul><li><p>If you used the kitchen, please clean the utensils and appliances you</p></li></ul><p>used, as well as the countertops and stovetops. 🍽️✨</p><p></p><ul><li><p>Don't forget to empty the trash and take it to the waste collection point at</p></li></ul><p>Lozari, near Spar. 🗑️📍</p><p></p><ul><li><p>Before you leave, please turn off all lights, electrical devices,</p></li></ul><p>and the air conditioning. 💡🔌❄️</p><p></p><p>Thank you for your cooperation and understanding. 🙏</p><p>We hope you enjoyed your stay and that we will have the opportunity</p><p>to welcome you again in the future. 🌟</p>",
+        "es": "<p>Queridos viajeros, ✈️</p><p>Esperamos que su estancia haya sido agradable y cómoda. 😊</p><p>Para facilitar su salida, queremos recordarles algunos elementos</p><p>importantes que no deben olvidar:</p><p></p><ul><li><p>Por favor, verifiquen que no han dejado nada en los armarios, los cajones, el</p></li></ul><p>baño o cualquier otra habitación de la casa. 🏠</p><p></p><ul><li><p>Asegúrense de que todas las ventanas y puertas estén cerradas correctamente</p></li></ul><p>antes de salir del apartamento. 🚪🔒</p><p></p><ul><li><p>Si han utilizado la cocina, por favor limpien los utensilios y los aparatos que</p></li></ul><p>han usado, así como la encimera y las placas de cocción. 🍽️✨</p><p></p><ul><li><p>No olviden vaciar la basura y llevarla al punto de recogida de Lozari,</p></li></ul><p>cerca del Spar. 🗑️📍</p><p></p><ul><li><p>Antes de irse, por favor apaguen todas las luces, los aparatos eléctricos,</p></li></ul><p>así como el aire acondicionado. 💡🔌❄️</p><p></p><p>Les agradecemos su cooperación y comprensión. 🙏</p><p>Esperamos que hayan disfrutado de su estancia y que tengamos la oportunidad</p><p>de recibirlos nuevamente en el futuro. 🌟</p>",
+        "fr": "<p>Chers voyageurs, ✈️</p><p>Nous espérons que votre séjour a été agréable et confortable. 😊</p><p>Afin de faciliter votre départ, nous tenions à vous rappeler quelques éléments</p><p>importants à ne pas oublier :</p><p></p><ul><li><p>Veuillez vérifier que vous n'avez rien oublié dans les placards, les tiroirs, la</p></li></ul><p>salle de bain ou toute autre pièce de la maison. 🏠</p><p></p><ul><li><p>Assurez-vous que toutes les fenêtres et les portes sont fermées correctement</p></li></ul><p>avant de quitter l’appartement. 🚪🔒</p><p></p><ul><li><p>Si vous avez utilisé la cuisine, veuillez nettoyer les ustensiles et les appareils que</p></li></ul><p>vous avez utilisés, ainsi que le plan de travail et les plaques de cuisson. 🍽️✨</p><p></p><ul><li><p>N'oubliez pas de vider la poubelle et de la déposer au point d’apport de Lozari,</p></li></ul><p>près du Spar. 🗑️📍</p><p></p><ul><li><p>Avant de partir, veuillez éteindre toutes les lumières, les appareils électriques,</p></li></ul><p>ainsi que la climatisation. 💡🔌❄️</p><p></p><p>Nous vous remercions de votre coopération et de votre compréhension. 🙏</p><p>Nous espérons que vous avez apprécié votre séjour et que nous aurons l'occasion</p><p>de vous accueillir à nouveau à l'avenir. 🌟</p>",
+        "it": "<p>Cari viaggiatori, ✈️</p><p>Speriamo che il vostro soggiorno sia stato piacevole e confortevole. 😊</p><p>Per facilitare la vostra partenza, desideriamo ricordarvi alcuni elementi</p><p>importanti da non dimenticare:</p><p></p><ul><li><p>Vi preghiamo di controllare di non aver dimenticato nulla negli armadi, nei cassetti, nel</p></li></ul><p>bagno o in qualsiasi altra stanza della casa. 🏠</p><p></p><ul><li><p>Assicuratevi che tutte le finestre e le porte siano chiuse correttamente</p></li></ul><p>prima di lasciare l’appartamento. 🚪🔒</p><p></p><ul><li><p>Se avete utilizzato la cucina, vi preghiamo di pulire gli utensili e gli apparecchi che</p></li></ul><p>avete usato, così come il piano di lavoro e i fornelli. 🍽️✨</p><p></p><ul><li><p>Non dimenticate di svuotare il cestino e di portarlo al punto di raccolta di Lozari,</p></li></ul><p>vicino al Spar. 🗑️📍</p><p></p><ul><li><p>Prima di partire, vi preghiamo di spegnere tutte le luci, gli apparecchi elettrici,</p></li></ul><p>e anche l'aria condizionata. 💡🔌❄️</p><p></p><p>Vi ringraziamo per la vostra collaborazione e comprensione. 🙏</p><p>Speriamo che abbiate apprezzato il vostro soggiorno e che avremo l'occasione</p><p>di accogliervi nuovamente in futuro. 🌟</p>"
+       },
+       "media": [],
+       "active": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "partners",
+   "type": "partners",
+   "active": true,
+   "title": {
+    "de": "Concierge-Service",
+    "en": "Concierge",
+    "es": "Conserjería",
+    "fr": "Conciergerie",
+    "it": "Concierge"
+   },
+   "icon": "heart-handshake",
+   "image": "media/hero-partners-125f67b9.webp",
+   "items": [
+    {
+     "id": "dda5c5a7",
+     "name": {
+      "de": "Mili Conciergerie",
+      "en": "Mili Concierge",
+      "es": "Mili Conserjería",
+      "fr": "Mili Conciergerie",
+      "it": "Mili Conciergerie"
+     },
+     "phone": "+3366010695001",
+     "email": "",
+     "url": "",
+     "address": "",
+     "logo": "media/partner-logo-8c3ff331.webp",
+     "description": {
+      "de": "<h3 style=\"text-align: center;\">Willkommen in Ihrem Zuhause! 🏡</h3><p style=\"text-align: center;\">Machen Sie es sich bequem und entspannen Sie sich: Ihr Urlaub beginnt jetzt! 🌞 Damit Ihr Aufenthalt ein voller Erfolg wird, stehen Cyril und Jennifer Ihnen zur Seite. 😊</p><p style=\"text-align: center;\">Brauchen Sie eine gute Adresse zum Abendessen 🍽️, praktische Informationen oder einen kleinen Schubs in die richtige Richtung? Zögern Sie nicht, sie um Hilfe zu bitten, sie helfen Ihnen gerne weiter. 🙌</p><h3 style=\"text-align: center;\">✨ Unsere Services, um Sie zu verwöhnen</h3><p style=\"text-align: center;\">Weil Sie hier sind, um sich zu entspannen, bieten wir Ihnen einige Optionen an, um Ihren Aufenthalt noch angenehmer und stressfreier zu gestalten:</p><ul><li><p><strong>Ein herzlicher Empfang:</strong> Wir begrüßen Sie persönlich, übergeben Ihnen die Schlüssel, zeigen Ihnen die Unterkunft und helfen Ihnen, sich zurechtzufinden. 🤗</p></li><li><p><strong>Leckere Frühstücke:</strong> Lassen Sie uns Ihr erstes Mahlzeit des Tages organisieren, für sanfte Morgenstunden. 🥐☕</p></li><li><p><strong>Frische Bettwäsche (30 € / Bett):</strong> Wenn Sie während Ihres Aufenthalts die Bettwäsche wechseln möchten, lassen Sie es uns einfach wissen. 🛏️</p></li><li><p><strong>Reinigungsservice auf Anfrage (50 € / Reinigung):</strong> Stellen Sie den Besen weg! 🧹 Wir können für die Reinigung sorgen, damit Sie Ihre Tage genießen können. 🌴</p></li><li><p><strong>Unsere lokalen Geheimtipps:</strong> Die besten Restaurants 🍕, die schönsten Spaziergänge oder die unvergesslichsten Aktivitäten... Wir teilen gerne unsere kleinen Geheimnisse mit Ihnen! 🤩</p></li></ul><p style=\"text-align: center;\">Jetzt müssen Sie nur noch Ihre Koffer auspacken 🧳 und genießen. Wir wünschen Ihnen einen wunderbaren Urlaub bei uns! 🌊</p>",
+      "en": "<h3 style=\"text-align: center;\">Welcome to your home! 🏡</h3><p style=\"text-align: center;\">Settle in comfortably and unwind: your vacation starts now! 🌞 To ensure your stay is a true success, Cyril and Jennifer are here to assist you. 😊</p><p style=\"text-align: center;\">Need a great place for dinner 🍽️, some practical information, or a little help? Don’t hesitate to reach out to them; they’ll be happy to make your life easier. 🙌</p><h3 style=\"text-align: center;\">✨ Our services to pamper you</h3><p style=\"text-align: center;\">Because you’re here to relax, we offer a few options to make your stay even more enjoyable and hassle-free:</p><ul><li><p><strong>A warm welcome:</strong> We’ll greet you in person to hand over the keys, show you around, and help you get settled. 🤗</p></li><li><p><strong>Delicious breakfasts:</strong> Let us arrange your first meal of the day for a gentle start to your mornings. 🥐☕</p></li><li><p><strong>Fresh linens (30 € / bed):</strong> If you’d like to change your sheets during your stay, just let us know. 🛏️</p></li><li><p><strong>Cleaning service on request (50 € / visit):</strong> Put the broom away! 🧹 We can come in to clean so you can enjoy your days. 🌴</p></li><li><p><strong>Our local favorites:</strong> The best restaurants 🍕, the most beautiful walks, or must-do activities... We love sharing our little secrets with you! 🤩</p></li></ul><p style=\"text-align: center;\">All that’s left is to unpack your bags 🧳 and enjoy. We wish you a wonderful vacation with us! 🌊</p>",
+      "es": "<h3 style=\"text-align: center;\">¡Bienvenido a casa! 🏡</h3><p style=\"text-align: center;\">Instálate cómodamente y relájate: ¡tus vacaciones comienzan ahora! 🌞 Para que tu estancia sea un verdadero éxito, Cyril y Jennifer están a tu lado. 😊</p><p style=\"text-align: center;\">¿Necesitas una buena recomendación para cenar 🍽️, información práctica o un pequeño empujón? No dudes en pedirles ayuda, estarán encantados de facilitarte la vida. 🙌</p><h3 style=\"text-align: center;\">✨ Nuestros servicios para mimarte</h3><p style=\"text-align: center;\">Porque estás aquí para relajarte, te ofrecemos algunas opciones para hacer tu estancia aún más agradable y sin complicaciones:</p><ul><li><p><strong>Una cálida bienvenida:</strong> Te recibimos en persona para entregarte las llaves, mostrarte el lugar y ayudarte a orientarte. 🤗</p></li><li><p><strong>Desayunos deliciosos:</strong> Déjanos organizar tu primera comida del día para que tus mañanas sean suaves y agradables. 🥐☕</p></li><li><p><strong>Ropa de cama fresca (30 € / cama):</strong> Si deseas cambiar tus sábanas durante la estancia, solo tienes que pedírnoslo. 🛏️</p></li><li><p><strong>Servicio de limpieza a demanda (50 € / visita):</strong> ¡Guarda la escoba! 🧹 Podemos encargarnos de la limpieza para que puedas disfrutar de tus días. 🌴</p></li><li><p><strong>Nuestras recomendaciones locales:</strong> Los mejores restaurantes 🍕, los paseos más bonitos o las actividades imprescindibles... ¡Nos encanta compartir nuestros secretos contigo! 🤩</p></li></ul><p style=\"text-align: center;\">Solo te queda deshacer las maletas 🧳 y disfrutar. ¡Te deseamos unas excelentes vacaciones con nosotros! 🌊</p>",
+      "fr": "<h3 style=\"text-align: center;\">Bienvenue chez vous ! 🏡</h3><p style=\"text-align: center;\">Installez-vous confortablement et relâchez la pression : vos vacances commencent maintenant ! 🌞 Pour que votre séjour soit une vraie réussite, Cyril et Jennifer sont à vos côtés. 😊</p><p style=\"text-align: center;\">Besoin d'une bonne adresse pour dîner 🍽️, d'une information pratique ou d'un petit coup de pouce ? N'hésitez pas à les solliciter, ils se feront un plaisir de vous faciliter la vie. 🙌</p><h3 style=\"text-align: center;\">✨ Nos services pour vous chouchouter</h3><p style=\"text-align: center;\">Parce que vous êtes ici pour vous détendre, nous vous proposons quelques options pour rendre votre séjour encore plus agréable et sans prise de tête :</p><ul><li><p><strong>Un accueil chaleureux :</strong> Nous vous accueillons en personne pour vous remettre les clés, vous faire visiter et vous aider à prendre vos marques. 🤗</p></li><li><p><strong>Des petits-déjeuners gourmands :</strong> Laissez-nous organiser votre premier repas de la journée pour des matins tout en douceur. 🥐☕</p></li><li><p><strong>Du linge tout frais (30 € / lit) :</strong> Si vous souhaitez changer vos draps en cours de séjour, il suffit de nous le demander. 🛏️</p></li><li><p><strong>Un coup de propre sur demande (50 € / passage) :</strong> Rangez le balai ! 🧹 Nous pouvons intervenir pour faire le ménage et vous laisser profiter de vos journées. 🌴</p></li><li><p><strong>Nos coups de cœur locaux :</strong> Les meilleurs restos 🍕, les plus belles balades ou les activités incontournables... Nous adorons partager nos petits secrets avec vous ! 🤩</p></li></ul><p style=\"text-align: center;\">Il ne vous reste plus qu'à défaire vos valises 🧳 et à profiter. Nous vous souhaitons d'excellentes vacances parmi nous ! 🌊</p>",
+      "it": "<h3 style=\"text-align: center;\">Benvenuti a casa vostra! 🏡</h3><p style=\"text-align: center;\">Mettetevi comodi e rilassatevi: le vostre vacanze iniziano ora! 🌞 Per rendere il vostro soggiorno un vero successo, Cyril e Jennifer sono qui per voi. 😊</p><p style=\"text-align: center;\">Avete bisogno di un buon ristorante per cenare 🍽️, di informazioni pratiche o di un piccolo aiuto? Non esitate a contattarli, saranno felici di rendervi la vita più facile. 🙌</p><h3 style=\"text-align: center;\">✨ I nostri servizi per coccolarvi</h3><p style=\"text-align: center;\">Perché siete qui per rilassarvi, vi offriamo alcune opzioni per rendere il vostro soggiorno ancora più piacevole e senza stress:</p><ul><li><p><strong>Un'accoglienza calorosa:</strong> Vi accoglieremo di persona per consegnarvi le chiavi, farvi visitare la casa e aiutarvi a prendere confidenza. 🤗</p></li><li><p><strong>Colazioni golose:</strong> Lasciate che ci occupiamo del vostro primo pasto della giornata per mattine all'insegna della dolcezza. 🥐☕</p></li><li><p><strong>Lenzuola fresche (30 € / letto):</strong> Se desiderate cambiare le lenzuola durante il soggiorno, basta chiedere. 🛏️</p></li><li><p><strong>Pulizia su richiesta (50 € / intervento):</strong> Mettete via la scopa! 🧹 Possiamo intervenire per fare le pulizie e lasciarvi godere le vostre giornate. 🌴</p></li><li><p><strong>I nostri preferiti locali:</strong> I migliori ristoranti 🍕, le passeggiate più belle o le attività imperdibili... Adoriamo condividere i nostri piccoli segreti con voi! 🤩</p></li></ul><p style=\"text-align: center;\">Non vi resta che disfare le valigie 🧳 e godervi il soggiorno. Vi auguriamo una splendida vacanza con noi! 🌊</p>"
+     },
+     "category": {
+      "de": "Dienstleistungen",
+      "en": "Services",
+      "es": "Servicios",
+      "fr": "Services",
+      "it": "Servizi"
+     }
+    }
+   ]
+  },
+  {
+   "id": "digicode",
+   "type": "digicode",
+   "active": true,
+   "title": {
+    "de": "Zugangscode",
+    "en": "Access code",
+    "es": "Código de acceso",
+    "fr": "Digicode",
+    "it": "Codice di accesso"
+   },
+   "icon": "calculator",
+   "image": "media/hero-digicode-59593923.webp",
+   "items": [
+    {
+     "id": "08b1f8d4",
+     "title": {
+      "de": "Tor",
+      "en": "Entrance",
+      "es": "Portal",
+      "fr": "Portail",
+      "it": "Porta"
+     },
+     "code": "6202",
+     "description": {}
+    }
+   ]
+  },
+  {
+   "id": "wifi",
+   "type": "wifi",
+   "active": true,
+   "title": {
+    "de": "Wifi",
+    "en": "Wifi",
+    "es": "Wifi",
+    "fr": "Wifi",
+    "it": "Wifi"
+   },
+   "icon": "wifi",
+   "image": "media/hero-wifi-62a249c1.webp",
+   "items": [
+    {
+     "id": "ea101638",
+     "ssid": "Casa Di Losari",
+     "password": "G32026G3",
+     "qr": true,
+     "description": {}
+    }
+   ]
+  }
+ ],
+ "assistant": {
+  "enabled": true,
+  "name": "Lozari",
+  "tone": "chaleureux",
+  "greeting": {
+   "fr": "Bonjour ! Je suis l’assistant de Casa Di Lozari. Posez-moi vos questions sur le logement, l’arrivée, le départ ou les bonnes adresses du coin."
+  },
+  "suggestions": {
+   "fr": [
+    "À quelle heure puis-je arriver ?",
+    "Quel est le code wifi ?",
+    "Où se garer ?",
+    "Un bon restaurant à proximité ?"
+   ]
+  },
+  "knowledge": ""
+ },
+ "share": {
+  "qr": {
+   "color": "#2a384a",
+   "bg": "#ffffff",
+   "transparent": true,
+   "style": "elegant"
+  },
+  "message": {
+   "fr": ""
+  },
+  "meta": {
+   "title": "Livret d'accueil",
+   "description": "",
+   "image": "media/apercu-a48b5c65.jpg",
+   "icon": "media/icon-512.png"
+  },
+  "poster": {
+   "template": 1,
+   "title": {},
+   "text": {}
+  }
+ },
+ "backend": {
+  "url": ""
+ }
+}
