@@ -916,56 +916,50 @@
    "places": [
     {
      "id": "8fd4d443",
-     "name": "SPAR SUPERMARCHÉ",
+     "name": "Spar",
      "category": "shops",
      "sub": "store",
      "favorite": false,
      "lat": 42.6377426,
      "lng": 9.0207692,
-     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
      "website": "http://puța.fr/",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
-      "fr": "Résidence hôtelière",
-      "en": "Résidence hôtelière",
-      "es": "Résidence hôtelière",
-      "de": "Résidence hôtelière",
-      "it": "Résidence hôtelière"
+      "fr": "Supermarché",
+      "en": "Supermarket",
+      "es": "Supermercado",
+      "de": "Supermarkt",
+      "it": "Supermercato"
      },
-     "summary": {
-      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
-     },
+     "summary": {},
      "remarks": {},
-     "photo": "media/spar-supermarch-d00f9308.webp",
+     "photo": "",
      "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 1.197,
      "active": true
     },
     {
      "id": "c543834a",
-     "name": "Corsica Roadster - Activité touristique Corse",
+     "name": "Corsica Roadster",
      "category": "culture",
      "sub": "tourist_attraction",
      "favorite": false,
      "lat": 42.6377106,
      "lng": 9.0218223,
-     "address": "Spar de, Lozari, 20226 Belgodère, France",
+     "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "06 37 47 78 56",
      "website": "https://www.corsicaroadster.fr/",
      "rating": 4.8,
      "ratingCount": 121,
      "type": {
-      "fr": "Agence de voyages",
-      "en": "Agence de voyages",
-      "es": "Agence de voyages",
-      "de": "Agence de voyages",
-      "it": "Agence de voyages"
+      "fr": "Activité touristique",
+      "en": "Tourist activity",
+      "es": "Actividad turística",
+      "de": "Freizeitaktivität",
+      "it": "Attività turistica"
      },
      "summary": {
       "fr": "",
@@ -994,11 +988,11 @@
      "rating": 4.6,
      "ratingCount": 1148,
      "type": {
-      "fr": "Attraction touristique",
-      "en": "Attraction touristique",
-      "es": "Attraction touristique",
-      "de": "Attraction touristique",
-      "it": "Attraction touristique"
+      "fr": "Restaurant de plage",
+      "en": "Beach restaurant",
+      "es": "Restaurante de playa",
+      "de": "Strandrestaurant",
+      "it": "Ristorante sulla spiaggia"
      },
      "summary": {
       "fr": "",
@@ -1008,14 +1002,14 @@
       "it": ""
      },
      "remarks": {},
-     "photo": "media/vava-u-chez-tat-34fffee5.webp",
+     "photo": "",
      "mapsUrl": "https://maps.google.com/?cid=4071875329492353621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 1.453,
      "active": true
     },
     {
      "id": "6e03a1f9",
-     "name": "Tour Génoise de Lozari à Belgodère",
+     "name": "Tour génoise de Lozari",
      "category": "culture",
      "sub": "historical_place",
      "favorite": false,
@@ -1028,20 +1022,20 @@
      "ratingCount": 98,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-tour-genoise-de-lozari.webp",
      "mapsUrl": "https://maps.google.com/?cid=13160854058507537010&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 1.645,
      "active": true
@@ -1060,51 +1054,51 @@
      "rating": 3.7,
      "ratingCount": 3,
      "type": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Plage",
+      "en": "Beach",
+      "es": "Playa",
+      "de": "Strand",
+      "it": "Spiaggia"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "en": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "es": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "de": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "it": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-plage-de-lumio.webp",
      "mapsUrl": "https://maps.google.com/?cid=7843739844229139249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 16.981,
      "active": true
     },
     {
      "id": "5332ada8",
-     "name": "Bergerie de frassigna",
-     "category": "culture",
-     "sub": "unmissable",
+     "name": "Bergerie de Frassigna",
+     "category": "discover",
+     "sub": "",
      "favorite": false,
-     "lat": 42.6309548,
-     "lng": 9.0248803,
-     "address": "94 Piaghja Di l'Osari, 20226 Palasca, France",
-     "phone": "",
+     "lat": 42.4514357,
+     "lng": 8.8311341,
+     "address": "Lieu-dit Frassigna, Route de Bonifato, 20214 Calenzana",
+     "phone": "+33495607179",
      "website": "",
      "rating": null,
      "ratingCount": 0,
      "type": {
-      "fr": "Construction",
-      "en": "Construction",
-      "es": "Construction",
-      "de": "Construction",
-      "it": "Construction"
+      "fr": "Producteur fermier",
+      "en": "Farm producer",
+      "es": "Productor agrícola",
+      "de": "Bauernhof-Erzeuger",
+      "it": "Produttore agricolo"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Bergerie familiale : brocciu AOP, fromages, agneau et œufs, en vente sur place. Visite de la bergerie sur demande, de mi-février à mi-juillet.",
+      "en": "Family sheep farm: PDO brocciu, cheeses, lamb and eggs for sale on site. Farm visits on request, mid-February to mid-July.",
+      "es": "Majada familiar: brocciu DOP, quesos, cordero y huevos a la venta en el lugar. Visita de la majada bajo petición, de mediados de febrero a mediados de julio.",
+      "de": "Familiäre Schäferei: Brocciu (g.U.), Käse, Lamm und Eier zum Verkauf vor Ort. Besichtigung auf Anfrage, Mitte Februar bis Mitte Juli.",
+      "it": "Ovile di famiglia: brocciu DOP, formaggi, agnello e uova in vendita sul posto. Visita dell’ovile su richiesta, da metà febbraio a metà luglio."
      },
      "remarks": {},
      "photo": "",
@@ -1114,56 +1108,50 @@
     },
     {
      "id": "793741d8",
-     "name": "BOULANGERIE SPIGA",
+     "name": "Boulangerie Spiga",
      "category": "shops",
      "sub": "store",
      "favorite": false,
      "lat": 42.6377426,
      "lng": 9.0207692,
-     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
      "website": "http://puța.fr/",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
-      "fr": "Résidence hôtelière",
-      "en": "Résidence hôtelière",
-      "es": "Résidence hôtelière",
-      "de": "Résidence hôtelière",
-      "it": "Résidence hôtelière"
+      "fr": "Boulangerie",
+      "en": "Bakery",
+      "es": "Panadería",
+      "de": "Bäckerei",
+      "it": "Panetteria"
      },
-     "summary": {
-      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
-     },
+     "summary": {},
      "remarks": {},
-     "photo": "media/spar-supermarch-d00f9308.webp",
+     "photo": "",
      "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 1.197,
      "active": true
     },
     {
      "id": "9f96e88d",
-     "name": "AutentiCorsica - Agence de voyage et Excursions en 4x4",
+     "name": "AutentiCorsica",
      "category": "culture",
      "sub": "tourist_attraction",
      "favorite": false,
      "lat": 42.6380524,
      "lng": 9.0211775,
-     "address": "Lozari, 20226 Palasca, France",
+     "address": "Lozari, 20226 Belgodère",
      "phone": "06 38 77 43 19",
      "website": "http://www.autenticorsica.com/",
      "rating": 5.0,
      "ratingCount": 73,
      "type": {
-      "fr": "Agence de voyages",
-      "en": "Agence de voyages",
-      "es": "Agence de voyages",
-      "de": "Agence de voyages",
-      "it": "Agence de voyages"
+      "fr": "Excursions en 4x4",
+      "en": "4x4 excursions",
+      "es": "Excursiones en 4x4",
+      "de": "4x4-Ausflüge",
+      "it": "Escursioni in 4x4"
      },
      "summary": {
       "fr": "",
@@ -1180,40 +1168,40 @@
     },
     {
      "id": "e98ddb82",
-     "name": "Tour de Saleccia, 20220 Monticello",
+     "name": "Tour de Saleccia",
      "category": "culture",
      "sub": "historical_place",
      "favorite": false,
      "lat": 42.639994,
      "lng": 8.975302,
-     "address": "JXQG+X4, Monticello, France",
+     "address": "20220 Monticello",
      "phone": "",
      "website": "https://www.corse24.com/tour-de-saleccia-a-monticello-decouvrez-ce-tresor-cache/",
      "rating": 5.0,
      "ratingCount": 1,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-tour-de-saleccia.webp",
      "mapsUrl": "https://maps.google.com/?cid=244289865534250062&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 3.444,
      "active": true
     },
     {
      "id": "63ed9844",
-     "name": "CHEZ DUME.O",
+     "name": "Chez Dume.O",
      "category": "restaurants",
      "sub": "restaurant",
      "favorite": true,
@@ -1225,11 +1213,11 @@
      "rating": null,
      "ratingCount": 0,
      "type": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurante",
+      "de": "Restaurant",
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -1260,9 +1248,9 @@
      "type": {
       "fr": "Restaurant",
       "en": "Restaurant",
-      "es": "Restaurant",
+      "es": "Restaurante",
       "de": "Restaurant",
-      "it": "Restaurant"
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -1279,33 +1267,27 @@
     },
     {
      "id": "6a268267",
-     "name": "TABAC PRESSE SOUVENIRS",
+     "name": "Tabac Presse Souvenirs",
      "category": "shops",
      "sub": "store",
      "favorite": false,
      "lat": 42.6377426,
      "lng": 9.0207692,
-     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
      "website": "http://puța.fr/",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
-      "fr": "Résidence hôtelière",
-      "en": "Résidence hôtelière",
-      "es": "Résidence hôtelière",
-      "de": "Résidence hôtelière",
-      "it": "Résidence hôtelière"
+      "fr": "Tabac, presse et souvenirs",
+      "en": "Tobacconist, newsagent & souvenirs",
+      "es": "Estanco, prensa y recuerdos",
+      "de": "Tabak, Zeitschriften & Souvenirs",
+      "it": "Tabacchi, giornali e souvenir"
      },
-     "summary": {
-      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
-     },
+     "summary": {},
      "remarks": {},
-     "photo": "media/spar-supermarch-d00f9308.webp",
+     "photo": "",
      "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 1.197,
      "active": true
@@ -1314,7 +1296,7 @@
      "id": "16e720fc",
      "name": "Plage de Lozari",
      "category": "culture",
-     "sub": "tourist_attraction",
+     "sub": "unmissable",
      "favorite": false,
      "lat": 42.641165,
      "lng": 9.0154614,
@@ -1324,21 +1306,21 @@
      "rating": 4.6,
      "ratingCount": 1148,
      "type": {
-      "fr": "Attraction touristique",
-      "en": "Attraction touristique",
-      "es": "Attraction touristique",
-      "de": "Attraction touristique",
-      "it": "Attraction touristique"
+      "fr": "Plage",
+      "en": "Beach",
+      "es": "Playa",
+      "de": "Strand",
+      "it": "Spiaggia"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : dronepicr, CC BY 2.0 (Wikimedia Commons)",
+      "en": "Photo : dronepicr, CC BY 2.0 (Wikimedia Commons)",
+      "es": "Photo : dronepicr, CC BY 2.0 (Wikimedia Commons)",
+      "de": "Photo : dronepicr, CC BY 2.0 (Wikimedia Commons)",
+      "it": "Photo : dronepicr, CC BY 2.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "media/vava-u-chez-tat-34fffee5.webp",
+     "photo": "media/livret-plage-de-lozari.webp",
      "mapsUrl": "https://maps.google.com/?cid=4071875329492353621&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 1.453,
      "active": true
@@ -1358,10 +1340,10 @@
      "ratingCount": 6,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
       "fr": "",
@@ -1374,13 +1356,13 @@
      "photo": "",
      "mapsUrl": "https://maps.google.com/?cid=13744105103525150522&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 4.523,
-     "active": true
+     "active": false
     },
     {
      "id": "d1609a3c",
-     "name": "Pont Génois d'Asco",
+     "name": "Pont génois d’Asco",
      "category": "culture",
-     "sub": "unmissable",
+     "sub": "historical_place",
      "favorite": false,
      "lat": 42.456289,
      "lng": 9.055731999999999,
@@ -1390,21 +1372,21 @@
      "rating": 4.8,
      "ratingCount": 127,
      "type": {
-      "fr": "Élément naturel",
-      "en": "Élément naturel",
-      "es": "Élément naturel",
-      "de": "Élément naturel",
-      "it": "Élément naturel"
+      "fr": "Site historique",
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-pont-genois-d-asco.webp",
      "mapsUrl": "https://maps.google.com/?cid=17777974952631403277&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 19.408,
      "active": true
@@ -1425,9 +1407,9 @@
      "type": {
       "fr": "Restaurant",
       "en": "Restaurant",
-      "es": "Restaurant",
+      "es": "Restaurante",
       "de": "Restaurant",
-      "it": "Restaurant"
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -1444,33 +1426,27 @@
     },
     {
      "id": "c2f2b312",
-     "name": "LES DELICES DE JULIETTE",
+     "name": "Les Délices de Juliette",
      "category": "shops",
      "sub": "store",
      "favorite": false,
      "lat": 42.6377426,
      "lng": 9.0207692,
-     "address": "Les Terrasses De Lozari, 20226 Belgodère, France",
+     "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
      "website": "http://puța.fr/",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
-      "fr": "Résidence hôtelière",
-      "en": "Résidence hôtelière",
-      "es": "Résidence hôtelière",
-      "de": "Résidence hôtelière",
-      "it": "Résidence hôtelière"
+      "fr": "Commerce",
+      "en": "Shop",
+      "es": "Comercio",
+      "de": "Geschäft",
+      "it": "Negozio"
      },
-     "summary": {
-      "fr": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "en": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "es": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "de": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium",
-      "it": "Appartements simples avec terrasse privée et cuisine équipée, piscine extérieure avec solarium"
-     },
+     "summary": {},
      "remarks": {},
-     "photo": "media/spar-supermarch-d00f9308.webp",
+     "photo": "",
      "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 1.197,
      "active": true
@@ -1490,53 +1466,53 @@
      "ratingCount": 1869,
      "type": {
       "fr": "Jardin botanique",
-      "en": "Jardin botanique",
-      "es": "Jardin botanique",
-      "de": "Jardin botanique",
-      "it": "Jardin botanique"
+      "en": "Botanical garden",
+      "es": "Jardín botánico",
+      "de": "Botanischer Garten",
+      "it": "Giardino botanico"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : LySioS-wkp, CC BY-SA 4.0 (Wikimedia Commons)",
+      "en": "Photo : LySioS-wkp, CC BY-SA 4.0 (Wikimedia Commons)",
+      "es": "Photo : LySioS-wkp, CC BY-SA 4.0 (Wikimedia Commons)",
+      "de": "Photo : LySioS-wkp, CC BY-SA 4.0 (Wikimedia Commons)",
+      "it": "Photo : LySioS-wkp, CC BY-SA 4.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-parc-de-saleccia.webp",
      "mapsUrl": "https://maps.google.com/?cid=16788309214204148728&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 3.008,
      "active": true
     },
     {
      "id": "716b50db",
-     "name": "plage de l'ostriconi",
+     "name": "Plage de l’Ostriconi",
      "category": "culture",
-     "sub": "historical_place",
+     "sub": "unmissable",
      "favorite": false,
      "lat": 42.6619465,
      "lng": 9.0607887,
-     "address": "Place Paoli, 20220 L'Île-Rousse, France",
+     "address": "Plage de l’Ostriconi, 20226 Palasca",
      "phone": "",
      "website": "",
      "rating": 4.6,
      "ratingCount": 44,
      "type": {
-      "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "fr": "Plage",
+      "en": "Beach",
+      "es": "Playa",
+      "de": "Strand",
+      "it": "Spiaggia"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-plage-de-l-ostriconi.webp",
      "mapsUrl": "https://maps.google.com/?cid=5647176461794956434&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 5.354,
      "active": true
@@ -1555,21 +1531,21 @@
      "rating": null,
      "ratingCount": 0,
      "type": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Cascade",
+      "en": "Waterfall",
+      "es": "Cascada",
+      "de": "Wasserfall",
+      "it": "Cascata"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Myrabella, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Photo : Myrabella, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Photo : Myrabella, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Photo : Myrabella, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Photo : Myrabella, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-cascade-d-aitone.webp",
      "mapsUrl": "https://maps.google.com/?cid=290510376680119408&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 45.093,
      "active": true
@@ -1588,11 +1564,11 @@
      "rating": 5.0,
      "ratingCount": 6,
      "type": {
-      "fr": "Restaurant de plats à emporter",
-      "en": "Restaurant de plats à emporter",
-      "es": "Restaurant de plats à emporter",
-      "de": "Restaurant de plats à emporter",
-      "it": "Restaurant de plats à emporter"
+      "fr": "Plats à emporter",
+      "en": "Takeaway",
+      "es": "Comida para llevar",
+      "de": "Essen zum Mitnehmen",
+      "it": "Cibo da asporto"
      },
      "summary": {
       "fr": "",
@@ -1609,9 +1585,9 @@
     },
     {
      "id": "ddc99004",
-     "name": "Teghje",
+     "name": "E Teghje",
      "category": "culture",
-     "sub": "tourist_attraction",
+     "sub": "historical_place",
      "favorite": false,
      "lat": 42.5861488,
      "lng": 9.0162805,
@@ -1621,18 +1597,18 @@
      "rating": 4.8,
      "ratingCount": 13,
      "type": {
-      "fr": "Attraction touristique",
-      "en": "Attraction touristique",
-      "es": "Attraction touristique",
-      "de": "Attraction touristique",
-      "it": "Attraction touristique"
+      "fr": "Site historique",
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "en": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "es": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "de": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)",
+      "it": "Photo : Chabe01, CC BY-SA 4.0 (Wikimedia Commons)"
      },
      "remarks": {
       "fr": "<h2><em>Les vestiges de la tour de guet médiévale E Teghje du XVIème siècle dominent le village. Une statue du Sacré Cœur de Jésus y est dressée depuis l'été 1991. C'est un remarquable point de vue sur la vallée du Réginu.</em></h2><p></p>",
@@ -1641,14 +1617,14 @@
       "de": "<h2><em>Die Überreste des mittelalterlichen Wachturms E Teghje aus dem 16. Jahrhundert überblicken das Dorf. Seit Sommer 1991 steht dort eine Statue des Heiligsten Herzens Jesu. Es ist ein bemerkenswerter Aussichtspunkt über das Réginu-Tal.</em></h2><p></p>",
       "it": "<h2><em>Le rovine della torre di avvistamento medievale E Teghje del XVI secolo dominano il villaggio. Una statua del Sacro Cuore di Gesù è stata eretta qui dall'estate del 1991. È un punto di vista straordinario sulla valle del Réginu.</em></h2><p></p>"
      },
-     "photo": "",
+     "photo": "media/livret-e-teghje.webp",
      "mapsUrl": "https://maps.google.com/?cid=8179654202991233665&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 4.671,
      "active": true
     },
     {
      "id": "9b97e24d",
-     "name": "Ruins de Vortica",
+     "name": "Ruines de Vortica",
      "category": "culture",
      "sub": "historical_place",
      "favorite": false,
@@ -1661,10 +1637,10 @@
      "ratingCount": 2,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
       "fr": "",
@@ -1681,23 +1657,23 @@
     },
     {
      "id": "299cc800",
-     "name": "Saleccia-off-road",
+     "name": "Saleccia Off Road",
      "category": "culture",
      "sub": "unmissable",
      "favorite": false,
      "lat": 42.6617574,
      "lng": 9.2370121,
-     "address": "Saleccia Off Road / Navette Saleccia 4x4 - Plages de Saleccia & Lotu - Évasion en 4x4 et Bateau dans les Agriates, Strada di Casta, Santo-Pietro-di-Tenda, France",
+     "address": "Strada di Casta, 20246 Santo-Pietro-di-Tenda",
      "phone": "06 64 00 38 92",
      "website": "https://www.saleccia-off-road.com/",
      "rating": 4.9,
      "ratingCount": 1177,
      "type": {
-      "fr": "Agence de voyages",
-      "en": "Agence de voyages",
-      "es": "Agence de voyages",
-      "de": "Agence de voyages",
-      "it": "Agence de voyages"
+      "fr": "Excursions en 4x4",
+      "en": "4x4 excursions",
+      "es": "Excursiones en 4x4",
+      "de": "4x4-Ausflüge",
+      "it": "Escursioni in 4x4"
      },
      "summary": {
       "fr": "",
@@ -1714,7 +1690,7 @@
     },
     {
      "id": "2ed5d060",
-     "name": "le local",
+     "name": "Le Local",
      "category": "restaurants",
      "sub": "restaurant",
      "favorite": false,
@@ -1728,9 +1704,9 @@
      "type": {
       "fr": "Restaurant",
       "en": "Restaurant",
-      "es": "Restaurant",
+      "es": "Restaurante",
       "de": "Restaurant",
-      "it": "Restaurant"
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -1759,11 +1735,11 @@
      "rating": 4.0,
      "ratingCount": 2,
      "type": {
-      "fr": "Attraction touristique",
-      "en": "Attraction touristique",
-      "es": "Attraction touristique",
-      "de": "Attraction touristique",
-      "it": "Attraction touristique"
+      "fr": "Activité de loisirs",
+      "en": "Leisure activity",
+      "es": "Actividad de ocio",
+      "de": "Freizeitaktivität",
+      "it": "Attività ricreativa"
      },
      "summary": {
       "fr": "",
@@ -1780,23 +1756,23 @@
     },
     {
      "id": "7e092098",
-     "name": "Tour Génoise - Torra Ghjenuvese",
+     "name": "Tour génoise de la Pietra",
      "category": "culture",
      "sub": "historical_place",
      "favorite": false,
-     "lat": 42.630278,
-     "lng": 8.938793,
-     "address": "Ecole Petit Prince, 20220 L'Île-Rousse, France",
+     "lat": 42.643444,
+     "lng": 8.935167,
+     "address": "Île de la Pietra, 20220 L’Île-Rousse",
      "phone": "",
      "website": "",
      "rating": 5.0,
      "ratingCount": 1,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
       "fr": "",
@@ -1827,9 +1803,9 @@
      "type": {
       "fr": "Restaurant",
       "en": "Restaurant",
-      "es": "Restaurant",
+      "es": "Restaurante",
       "de": "Restaurant",
-      "it": "Restaurant"
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -1859,20 +1835,20 @@
      "ratingCount": 2,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Photo : Pierre Bona, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-eglise-ruinee-pieve-di-san-ghjuvanni.webp",
      "mapsUrl": "https://maps.google.com/?cid=5072516255863426348&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 6.515,
      "active": true
@@ -1892,10 +1868,10 @@
      "ratingCount": 0,
      "type": {
       "fr": "Snack",
-      "en": "Snack",
-      "es": "Snack",
-      "de": "Snack",
-      "it": "Snack"
+      "en": "Snack bar",
+      "es": "Snack bar",
+      "de": "Imbiss",
+      "it": "Snack bar"
      },
      "summary": {
       "fr": "",
@@ -1912,33 +1888,33 @@
     },
     {
      "id": "0f3257f0",
-     "name": "Ile rousse",
+     "name": "L’Île-Rousse",
      "category": "culture",
-     "sub": "historical_place",
+     "sub": "unmissable",
      "favorite": true,
      "lat": 42.6396148,
      "lng": 8.9350073,
-     "address": "Rte du Port, 20220 L'Île-Rousse, France",
+     "address": "20220 L’Île-Rousse",
      "phone": "",
      "website": "",
      "rating": 4.4,
      "ratingCount": 18,
      "type": {
-      "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "fr": "Ville",
+      "en": "Town",
+      "es": "Ciudad",
+      "de": "Stadt",
+      "it": "Città"
      },
      "summary": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Photo : Jean-Pol GRANDMONT, CC BY 3.0 (Wikimedia Commons)",
+      "en": "Photo : Jean-Pol GRANDMONT, CC BY 3.0 (Wikimedia Commons)",
+      "es": "Photo : Jean-Pol GRANDMONT, CC BY 3.0 (Wikimedia Commons)",
+      "de": "Photo : Jean-Pol GRANDMONT, CC BY 3.0 (Wikimedia Commons)",
+      "it": "Photo : Jean-Pol GRANDMONT, CC BY 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-l-ile-rousse.webp",
      "mapsUrl": "https://maps.google.com/?cid=9200772946753631449&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 6.603,
      "active": true
@@ -1957,11 +1933,11 @@
      "rating": 4.7,
      "ratingCount": 263,
      "type": {
-      "fr": "Restaurant de tapas",
-      "en": "Restaurant de tapas",
-      "es": "Restaurant de tapas",
-      "de": "Restaurant de tapas",
-      "it": "Restaurant de tapas"
+      "fr": "Bar à tapas",
+      "en": "Tapas bar",
+      "es": "Bar de tapas",
+      "de": "Tapas-Bar",
+      "it": "Bar di tapas"
      },
      "summary": {
       "fr": "",
@@ -1991,10 +1967,10 @@
      "ratingCount": 3,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
       "fr": "",
@@ -2011,7 +1987,7 @@
     },
     {
      "id": "80be6290",
-     "name": "Glacier & Salon de thé A Balanina",
+     "name": "A Balanina",
      "category": "restaurants",
      "sub": "restaurant",
      "favorite": false,
@@ -2023,11 +1999,11 @@
      "rating": 4.1,
      "ratingCount": 51,
      "type": {
-      "fr": "Restaurant coréen",
-      "en": "Restaurant coréen",
-      "es": "Restaurant coréen",
-      "de": "Restaurant coréen",
-      "it": "Restaurant coréen"
+      "fr": "Glacier et salon de thé",
+      "en": "Ice cream & tea room",
+      "es": "Heladería y salón de té",
+      "de": "Eisdiele & Teesalon",
+      "it": "Gelateria e sala da tè"
      },
      "summary": {
       "fr": "",
@@ -2057,20 +2033,20 @@
      "ratingCount": 1441,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
-      "en": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
-      "es": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
-      "de": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer.",
-      "it": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer."
+      "fr": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer. — Photo : Eulolie, CC0 (Wikimedia Commons)",
+      "en": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer. — Photo : Eulolie, CC0 (Wikimedia Commons)",
+      "es": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer. — Photo : Eulolie, CC0 (Wikimedia Commons)",
+      "de": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer. — Photo : Eulolie, CC0 (Wikimedia Commons)",
+      "it": "Phare de la péninsule rocheuse de la Pietra accessible à pied ou en petit train, offrant panorama sur la mer. — Photo : Eulolie, CC0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "",
+     "photo": "media/livret-phare-de-la-pietra-fanale-di-petra.webp",
      "mapsUrl": "https://maps.google.com/?cid=10788926794427732644&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
      "distance": 6.961,
      "active": true
@@ -2091,9 +2067,9 @@
      "type": {
       "fr": "Restaurant",
       "en": "Restaurant",
-      "es": "Restaurant",
+      "es": "Restaurante",
       "de": "Restaurant",
-      "it": "Restaurant"
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -2123,20 +2099,20 @@
      "ratingCount": 11861,
      "type": {
       "fr": "Site historique",
-      "en": "Site historique",
-      "es": "Site historique",
-      "de": "Site historique",
-      "it": "Site historique"
+      "en": "Historic site",
+      "es": "Lugar histórico",
+      "de": "Historische Stätte",
+      "it": "Sito storico"
      },
      "summary": {
-      "fr": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
-      "en": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
-      "es": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
-      "de": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb.",
-      "it": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb."
+      "fr": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb. — Photo : Isiwal, CC BY-SA 3.0 (Wikimedia Commons)",
+      "en": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb. — Photo : Isiwal, CC BY-SA 3.0 (Wikimedia Commons)",
+      "es": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb. — Photo : Isiwal, CC BY-SA 3.0 (Wikimedia Commons)",
+      "de": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb. — Photo : Isiwal, CC BY-SA 3.0 (Wikimedia Commons)",
+      "it": "Forteresse perchée offrant des vues de la ville et du port, à l'ombre de laquelle serait né Christophe Colomb. — Photo : Isiwal, CC BY-SA 3.0 (Wikimedia Commons)"
      },
      "remarks": {},
-     "photo": "media/citadelle-de-calvi-65169e9c.webp",
+     "photo": "media/livret-citadelle-de-calvi.webp",
      "mapsUrl": "https://maps.google.com/?cid=949839436218934316&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
      "distance": 21.804,
      "active": true
@@ -2157,7 +2133,7 @@
      "type": {
       "fr": "Pizzeria",
       "en": "Pizzeria",
-      "es": "Pizzeria",
+      "es": "Pizzería",
       "de": "Pizzeria",
       "it": "Pizzeria"
      },
@@ -2176,7 +2152,7 @@
     },
     {
      "id": "9c1e0b82",
-     "name": "A CASARELLA",
+     "name": "A Casarella",
      "category": "restaurants",
      "sub": "restaurant",
      "favorite": false,
@@ -2188,11 +2164,11 @@
      "rating": null,
      "ratingCount": 0,
      "type": {
-      "fr": "",
-      "en": "",
-      "es": "",
-      "de": "",
-      "it": ""
+      "fr": "Restaurant",
+      "en": "Restaurant",
+      "es": "Restaurante",
+      "de": "Restaurant",
+      "it": "Ristorante"
      },
      "summary": {
       "fr": "",
@@ -2209,7 +2185,7 @@
     },
     {
      "id": "163e223d",
-     "name": "CHEZ EDGARD",
+     "name": "Chez Edgard",
      "category": "restaurants",
      "sub": "restaurant",
      "favorite": false,
@@ -2221,11 +2197,11 @@
      "rating": 4.8,
      "ratingCount": 1963,
      "type": {
-      "fr": "Restaurant français",
-      "en": "Restaurant français",
-      "es": "Restaurant français",
-      "de": "Restaurant français",
-      "it": "Restaurant français"
+      "fr": "Ferme-auberge",
+      "en": "Farmhouse inn",
+      "es": "Albergue rural",
+      "de": "Bauerngasthof",
+      "it": "Agriturismo"
      },
      "summary": {
       "fr": "Dans une ancienne bâtisse avec moulin à huile, cuisine régionale aux produits du terroirs (sanglier, veau...).",
