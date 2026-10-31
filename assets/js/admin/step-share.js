@@ -9,6 +9,9 @@ export function siteUrl() {
   const g = S.cfg.github || {};
   const dom = (S.D.share?.domain || '').trim().replace(/^https?:\/\//, '').replace(/\/+$/, '');
   if (dom) return `https://${dom}/`;
+  // Hébergé ailleurs que sur GitHub Pages (Netlify…) : l'adresse du livret est celle de l'éditeur.
+  const h = location.hostname;
+  if (h && !h.endsWith('github.io') && h !== 'localhost' && h !== '127.0.0.1') return new URL('./', location.href).href;
   if (g.owner && g.repo) {
     const o = g.owner.toLowerCase();
     return g.repo.toLowerCase() === `${o}.github.io` ? `https://${o}.github.io/` : `https://${o}.github.io/${g.repo}/`;
@@ -78,7 +81,7 @@ function linkTab() {
       <div class="lbl">Lien du QR code <span class="muted">(compte les scans dans les statistiques)</span></div><div class="copyline"><input class="inp" readonly value="${esc(qrUrl())}"><button class="b sm" data-copy="${esc(qrUrl())}">${icon('copy')} Copier</button></div>
       <hr style="border:0;border-top:1px solid var(--line);margin:14px 0">
       <div class="lbl">${icon('link')} URL personnalisée <span class="muted">(facultatif)</span></div>
-      ${text('share.domain', '', { ph: 'livret.casadilosari.fr', hint: 'Si vous possédez un nom de domaine, indiquez-le ici puis ajoutez chez votre registrar un enregistrement CNAME vers <b>' + esc((S.cfg.github?.owner || 'votre-compte').toLowerCase()) + '.github.io</b>. Le fichier CNAME est publié automatiquement.' })}</div>
+      ${text('share.domain', '', { ph: 'livret.casadilozari.com', hint: location.hostname.endsWith('netlify.app') || !location.hostname.endsWith('github.io') ? 'Si vous possédez un nom de domaine, ajoutez-le d’abord dans Netlify (Domain management), puis chez votre registrar un enregistrement CNAME vers <b>' + esc(location.hostname) + '</b>. Indiquez-le ensuite ici : il servira pour le QR code et les liens partagés.' : 'Si vous possédez un nom de domaine, indiquez-le ici puis ajoutez chez votre registrar un enregistrement CNAME vers <b>' + esc((S.cfg.github?.owner || 'votre-compte').toLowerCase()) + '.github.io</b>. Le fichier CNAME est publié automatiquement.' })}</div>
     <div class="card"><h3>Message de partage</h3>
       ${text('share.message', '', { tr: true, area: true, rows: 3, max: 300, ph: DEFAULT_MSG.fr })}
       <p class="hint">Texte pré-rempli dans WhatsApp, SMS et e-mail ; l’adresse du livret est ajoutée à la fin. Laissez vide pour le message par défaut.</p>

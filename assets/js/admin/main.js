@@ -327,7 +327,7 @@ async function action(a, t) {
       changed(); return renderMain();
     case 'code-add': { const c = await askText('Code d’accès', 'Nouveau code (lettres ou chiffres, insensible aux majuscules)'); if (!c) return; D.access.codes = [...(D.access.codes || []), await sha256(c)]; changed(); toast('Code ajouté. Notez-le : il ne sera plus affiché.'); return renderMain(); }
     case 'code-clear': if (await ask('Supprimer tous les codes d’accès ?', 'Supprimer', true)) { D.access.codes = []; changed(); renderMain(); } return;
-    case 'gh-test': { const out = document.getElementById('gh-res'); out.textContent = 'Test…'; try { const r = await testGithub(); out.innerHTML = `<b style="color:var(--ok)">✔ Connexion OK</b> — dépôt « ${esc(r.full_name)} »${r.private ? ' (privé : GitHub Pages gratuit exige un dépôt public)' : ''}.`; } catch (err) { out.innerHTML = `<b style="color:#b91c1c">✖ ${esc(err.message)}</b>`; } return; }
+    case 'gh-test': { const out = document.getElementById('gh-res'); out.textContent = 'Test…'; try { const r = await testGithub(); out.innerHTML = `<b style="color:var(--ok)">✔ Connexion OK</b> — dépôt « ${esc(r.full_name)} »${r.private && location.hostname.endsWith('github.io') ? ' (privé : GitHub Pages gratuit exige un dépôt public)' : ''}.`; } catch (err) { out.innerHTML = `<b style="color:#b91c1c">✖ ${esc(err.message)}</b>`; } return; }
     case 'be-test': return testBackend();
     case 'qr-png': case 'qr-svg': return makeQr(qrUrl(), 1400, S.D.share.qr, a === 'qr-svg' ? 'svg' : 'canvas').download({ name: 'qr-code-livret', extension: a === 'qr-png' ? 'png' : 'svg' });
     case 'export': { const blob = new Blob([JSON.stringify(D, null, 1)], { type: 'application/json' }); const u = URL.createObjectURL(blob); const l = document.createElement('a'); l.href = u; l.download = 'livret-sauvegarde.json'; l.click(); setTimeout(() => URL.revokeObjectURL(u), 2000); return; }
@@ -663,7 +663,8 @@ ${meta.image ? `<meta property="og:image" content="${e(abs(meta.image))}">\n` : 
 <link rel="apple-touch-icon" href="${e(icons.i512)}">
 <meta name="theme-color" content="${e(data.theme.menu?.bg || '#ffffff')}">
 <!--/META-->`;
-  const idx = await (await fetch('index.html', { cache: 'no-cache' })).text();
+  // L'hébergeur peut ajouter son propre commentaire à la page servie : on ne le réenregistre pas.
+  const idx = (await (await fetch('index.html', { cache: 'no-cache' })).text()).replace(/<!-- This site is hosted on Netlify\.[\s\S]*?-->\n?/g, '');
   files.push({ path: 'index.html', text: idx.replace(/<!--META-->[\s\S]*?<!--\/META-->/, metaHtml) });
   files.push({ path: 'manifest.webmanifest', text: JSON.stringify({ name: `${title} — Livret d’accueil`, short_name: title.slice(0, 24), start_url: './', scope: './', display: 'standalone', background_color: data.theme.pages?.bg || '#ffffff', theme_color: data.theme.menu?.bg || '#ffffff', icons: [{ src: icons.i192, sizes: '192x192', type: 'image/png', purpose: 'any' }, { src: icons.i512, sizes: '512x512', type: 'image/png', purpose: 'any' }] }, null, 1) });
   const dom = (data.share.domain || '').trim().replace(/^https?:\/\//, '').replace(/\/+$/, '');
@@ -691,7 +692,7 @@ async function publishFlow() {
     await publishFiles(files, `Mise à jour du livret (${new Date().toLocaleString('fr-FR')})`, (i, total, path) => { bar.style.width = (i / total * 100) + '%'; txt.textContent = `Envoi ${i} / ${total} : ${path}`; });
     S.PUB = clone(data); S.dirty = false;
     await idbDel('draft');
-    d.el.innerHTML = `<h3 style="color:var(--ok)">✔ Livret publié</h3><p>${files.length} fichier(s) envoyé(s) dont ${n} image(s). GitHub Pages met le site à jour d’ici <b>1 à 2 minutes</b>.</p>
+    d.el.innerHTML = `<h3 style="color:var(--ok)">✔ Livret publié</h3><p>${files.length} fichier(s) envoyé(s) dont ${n} image(s). Le livret en ligne est mis à jour d’ici <b>1 à 2 minutes</b>.</p>
       <p><a href="${esc(siteUrl())}" target="_blank" rel="noopener">${esc(siteUrl())}</a></p><div class="acts"><button class="b violet" data-x>Fermer</button></div>`;
     d.el.querySelector('[data-x]').onclick = d.close;
     renderMain();

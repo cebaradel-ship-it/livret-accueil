@@ -88,7 +88,7 @@ function ai() {
 
 function publish() {
   const g = S.cfg.github, b = S.cfg.backend;
-  return `<div class="sec-title">Publication sur GitHub Pages</div><p class="sec-sub">Ces réglages restent dans ce navigateur (ils ne sont jamais publiés). Voir le guide <a href="GUIDE.html" target="_blank">GUIDE.html</a> pour les créer pas à pas.</p>
+  return `<div class="sec-title">Publication en ligne (via GitHub)</div><p class="sec-sub">Ces réglages restent dans ce navigateur (ils ne sont jamais publiés). Voir le guide <a href="GUIDE.html" target="_blank">GUIDE.html</a> pour les créer pas à pas.</p>
     <div class="card"><div class="grid2">
       <label class="f"><span>Compte GitHub (propriétaire)</span><input class="inp" data-cfg="github.owner" value="${esc(g.owner)}" placeholder="corxiono"></label>
       <label class="f"><span>Dépôt</span><input class="inp" data-cfg="github.repo" value="${esc(g.repo)}" placeholder="livret-accueil"></label>
