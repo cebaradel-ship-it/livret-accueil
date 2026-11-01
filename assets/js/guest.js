@@ -383,7 +383,11 @@ function placeRow(m, p) {
 function placeDetail(m, p, c) {
   const sub = c?.subs?.find(s => s.id === p.sub);
   const ph = media(p.photo);
-  const dir = p.lat != null ? `https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lng}` : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.name + ' ' + p.address)}`;
+  // Le nom + l'adresse désignent l'établissement lui-même ; les coordonnées ne sont que le secours
+  // (un point placé au centre du village enverrait sinon le voyageur à Belgodère).
+  const q = encodeURIComponent([p.name, p.address].filter(Boolean).join(', '));
+  const dir = q ? `https://www.google.com/maps/dir/?api=1&destination=${q}` : `https://www.google.com/maps/dir/?api=1&destination=${p.lat},${p.lng}`;
+  const gmaps = p.mapsUrl || (q ? `https://www.google.com/maps/search/?api=1&query=${q}` : '');
   return `<div class="pdetail">
     <div class="cover" style="${ph ? `background-image:url('${esc(ph)}')` : ''}">${ph ? '' : icon(sub?.icon || c?.icon || 'map-pin')}</div>
     <div class="card">
@@ -397,7 +401,7 @@ function placeDetail(m, p, c) {
         <a class="btn" href="${esc(dir)}" target="_blank" rel="noopener">${icon('navigation')}${U('directions')}</a>
         ${p.phone ? `<a class="btn ghost" href="${telHref(p.phone)}">${icon('phone')}${U('call')}</a>` : ''}
         ${p.website ? `<a class="btn ghost" href="${esc(p.website)}" target="_blank" rel="noopener">${icon('world')}${U('website')}</a>` : ''}
-        ${p.mapsUrl ? `<a class="btn ghost" href="${esc(p.mapsUrl)}" target="_blank" rel="noopener">${icon('external-link')}Google Maps</a>` : ''}
+        ${gmaps ? `<a class="btn ghost" href="${esc(gmaps)}" target="_blank" rel="noopener">${icon('external-link')}Google Maps</a>` : ''}
       </div>
     </div></div>`;
 }

@@ -927,7 +927,7 @@
      "lng": 9.0207692,
      "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
-     "website": "http://puța.fr/",
+     "website": "",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
@@ -940,7 +940,7 @@
      "summary": {},
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 1.197,
      "active": true
     },
@@ -973,7 +973,7 @@
      },
      "remarks": {},
      "photo": "media/corsica-roadster-activit-tou-43a0f6cc.webp",
-     "mapsUrl": "https://maps.google.com/?cid=6293906667327456479&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.235,
      "active": true
     },
@@ -987,7 +987,7 @@
      "lng": 9.0154614,
      "address": "Plage de Lozari, Belgodère, France",
      "phone": "",
-     "website": "https://www.visit-corsica.com/fre/infotour/plages/id/64/idEz/28156/page/1/Plan-my-holiday/What-to-see-and-do/Beaches-and-swimming",
+     "website": "",
      "rating": 4.6,
      "ratingCount": 1148,
      "type": {
@@ -1006,7 +1006,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=4071875329492353621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 1.453,
      "active": true
     },
@@ -1039,7 +1039,7 @@
      },
      "remarks": {},
      "photo": "media/livret-tour-genoise-de-lozari.webp",
-     "mapsUrl": "https://maps.google.com/?cid=13160854058507537010&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.645,
      "active": true
     },
@@ -1072,7 +1072,7 @@
      },
      "remarks": {},
      "photo": "media/livret-plage-de-lumio.webp",
-     "mapsUrl": "https://maps.google.com/?cid=7843739844229139249&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 16.981,
      "active": true
     },
@@ -1105,7 +1105,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=7204963464756440710&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 0.929,
      "active": true
     },
@@ -1119,7 +1119,7 @@
      "lng": 9.0207692,
      "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
-     "website": "http://puța.fr/",
+     "website": "",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
@@ -1132,7 +1132,7 @@
      "summary": {},
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 1.197,
      "active": true
     },
@@ -1165,7 +1165,7 @@
      },
      "remarks": {},
      "photo": "media/autenticorsica-agence-de-voy-da0c736f.webp",
-     "mapsUrl": "https://maps.google.com/?cid=9242055901315251918&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.243,
      "active": true
     },
@@ -1198,7 +1198,7 @@
      },
      "remarks": {},
      "photo": "media/livret-tour-de-saleccia.webp",
-     "mapsUrl": "https://maps.google.com/?cid=244289865534250062&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 3.444,
      "active": true
     },
@@ -1208,8 +1208,8 @@
      "category": "restaurants",
      "sub": "restaurant",
      "favorite": true,
-     "lat": 42.58584,
-     "lng": 9.017958,
+     "lat": 42.5911828,
+     "lng": 9.0206512,
      "address": "20226 Belgodère, France",
      "phone": "",
      "website": "",
@@ -1231,8 +1231,8 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=783496337058599050&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-     "distance": 4.712,
+     "mapsUrl": "https://maps.app.goo.gl/H7XTcjJ1y9g5zASz7",
+     "distance": 4.142,
      "active": true
     },
     {
@@ -1264,7 +1264,7 @@
      },
      "remarks": {},
      "photo": "media/u-clandestinu-072b680b.webp",
-     "mapsUrl": "https://maps.google.com/?cid=13427566452471449286&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 0.93,
      "active": true
     },
@@ -1278,7 +1278,7 @@
      "lng": 9.0207692,
      "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
-     "website": "http://puța.fr/",
+     "website": "",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
@@ -1291,7 +1291,7 @@
      "summary": {},
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 1.197,
      "active": true
     },
@@ -1324,7 +1324,7 @@
      },
      "remarks": {},
      "photo": "media/livret-plage-de-lozari.webp",
-     "mapsUrl": "https://maps.google.com/?cid=4071875329492353621&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.453,
      "active": true
     },
@@ -1357,7 +1357,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=13744105103525150522&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 4.523,
      "active": false
     },
@@ -1390,7 +1390,7 @@
      },
      "remarks": {},
      "photo": "media/livret-pont-genois-d-asco.webp",
-     "mapsUrl": "https://maps.google.com/?cid=17777974952631403277&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 19.408,
      "active": true
     },
@@ -1423,7 +1423,7 @@
      },
      "remarks": {},
      "photo": "media/restaurant-les-mouettes-465e24cf.webp",
-     "mapsUrl": "https://maps.google.com/?cid=2329248009618617756&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 0.913,
      "active": true
     },
@@ -1437,7 +1437,7 @@
      "lng": 9.0207692,
      "address": "Zone commerciale L’Osari, Lozari, 20226 Belgodère",
      "phone": "04 95 58 19 89",
-     "website": "http://puța.fr/",
+     "website": "",
      "rating": 4.2,
      "ratingCount": 201,
      "type": {
@@ -1450,7 +1450,7 @@
      "summary": {},
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=16958337246315412760&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 1.197,
      "active": true
     },
@@ -1483,7 +1483,7 @@
      },
      "remarks": {},
      "photo": "media/livret-parc-de-saleccia.webp",
-     "mapsUrl": "https://maps.google.com/?cid=16788309214204148728&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 3.008,
      "active": true
     },
@@ -1516,7 +1516,7 @@
      },
      "remarks": {},
      "photo": "media/livret-plage-de-l-ostriconi.webp",
-     "mapsUrl": "https://maps.google.com/?cid=5647176461794956434&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 5.354,
      "active": true
     },
@@ -1549,7 +1549,7 @@
      },
      "remarks": {},
      "photo": "media/livret-cascade-d-aitone.webp",
-     "mapsUrl": "https://maps.google.com/?cid=290510376680119408&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 45.093,
      "active": true
     },
@@ -1582,7 +1582,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=3363084894605504836&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 0.927,
      "active": true
     },
@@ -1621,7 +1621,7 @@
       "it": "<h2><em>Le rovine della torre di avvistamento medievale E Teghje del XVI secolo dominano il villaggio. Una statua del Sacro Cuore di Gesù è stata eretta qui dall'estate del 1991. È un punto di vista straordinario sulla valle del Réginu.</em></h2><p></p>"
      },
      "photo": "media/livret-e-teghje.webp",
-     "mapsUrl": "https://maps.google.com/?cid=8179654202991233665&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 4.671,
      "active": true
     },
@@ -1654,7 +1654,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=10774063779464348778&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 5.57,
      "active": true
     },
@@ -1687,7 +1687,7 @@
      },
      "remarks": {},
      "photo": "media/saleccia-off-road-7d736d0e.webp",
-     "mapsUrl": "https://maps.google.com/?cid=10087213579787522489&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 18.604,
      "active": true
     },
@@ -1720,7 +1720,7 @@
      },
      "remarks": {},
      "photo": "media/le-local-4a0b4674.webp",
-     "mapsUrl": "https://maps.google.com/?cid=16237370639695934209&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.287,
      "active": true
     },
@@ -1753,7 +1753,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=14298859174198766190&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 5.346,
      "active": true
     },
@@ -1786,7 +1786,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=8508858000631942389&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 6.173,
      "active": true
     },
@@ -1819,7 +1819,7 @@
      },
      "remarks": {},
      "photo": "media/l-atelier-du-chef-de14690e.webp",
-     "mapsUrl": "https://maps.google.com/?cid=2214879378131913772&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.303,
      "active": true
     },
@@ -1852,7 +1852,7 @@
      },
      "remarks": {},
      "photo": "media/livret-eglise-ruinee-pieve-di-san-ghjuvanni.webp",
-     "mapsUrl": "https://maps.google.com/?cid=5072516255863426348&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 6.515,
      "active": true
     },
@@ -1885,7 +1885,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=4486649998808686076&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.306,
      "active": true
     },
@@ -1918,7 +1918,7 @@
      },
      "remarks": {},
      "photo": "media/livret-l-ile-rousse.webp",
-     "mapsUrl": "https://maps.google.com/?cid=9200772946753631449&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 6.603,
      "active": true
     },
@@ -1951,7 +1951,7 @@
      },
      "remarks": {},
      "photo": "media/le-vin226-restaurant-tapas-cce30750.webp",
-     "mapsUrl": "https://maps.google.com/?cid=612717234327436959&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.308,
      "active": true
     },
@@ -1984,7 +1984,7 @@
      },
      "remarks": {},
      "photo": "",
-     "mapsUrl": "https://maps.google.com/?cid=3152312843618264866&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 6.848,
      "active": true
     },
@@ -2017,7 +2017,7 @@
      },
      "remarks": {},
      "photo": "media/glacier-salon-de-th-a-balani-916adb43.webp",
-     "mapsUrl": "https://maps.google.com/?cid=14520897447533317965&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.312,
      "active": true
     },
@@ -2050,7 +2050,7 @@
      },
      "remarks": {},
      "photo": "media/livret-phare-de-la-pietra-fanale-di-petra.webp",
-     "mapsUrl": "https://maps.google.com/?cid=10788926794427732644&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 6.961,
      "active": true
     },
@@ -2083,7 +2083,7 @@
      },
      "remarks": {},
      "photo": "media/restaurant-le-pavillon-95b65e21.webp",
-     "mapsUrl": "https://maps.google.com/?cid=11405964993122673452&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.318,
      "active": true
     },
@@ -2116,7 +2116,7 @@
      },
      "remarks": {},
      "photo": "media/livret-citadelle-de-calvi.webp",
-     "mapsUrl": "https://maps.google.com/?cid=949839436218934316&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 21.804,
      "active": true
     },
@@ -2149,7 +2149,7 @@
      },
      "remarks": {},
      "photo": "media/pizza-livia-48002f25.webp",
-     "mapsUrl": "https://maps.google.com/?cid=12647775095505307069&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+     "mapsUrl": "",
      "distance": 1.321,
      "active": true
     },
@@ -2215,7 +2215,7 @@
      },
      "remarks": {},
      "photo": "media/chez-edgard-41f56c88.webp",
-     "mapsUrl": "https://maps.google.com/?cid=2957762965568948860&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+     "mapsUrl": "",
      "distance": 12.653,
      "active": true
     }
