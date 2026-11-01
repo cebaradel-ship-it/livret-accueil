@@ -150,6 +150,9 @@
    "bgEnabled": false,
    "bg": "#142238"
   },
+  "langButton": {
+   "shape": "square"
+  },
   "menu": {
    "enabled": true,
    "bg": "#142238",

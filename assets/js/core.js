@@ -180,6 +180,7 @@ export function themeVars(t) {
     '--sub-font': `'${t.subtitle?.font || 'Poppins'}'`, '--sub-weight': t.subtitle?.weight || 500, '--sub-color': t.subtitle?.color,
     '--sub-size': SUB_SIZE[t.subtitle?.size] || SUB_SIZE.normal, '--sub-bg': t.subtitle?.bgEnabled ? rgba(t.subtitle.bg, 0.85) : 'transparent',
     '--menu-bg': t.menu?.bg, '--menu-text': t.menu?.text, '--burger': t.menu?.burger,
+    '--lang-radius': t.langButton?.shape === 'round' ? '50%' : '2px',
     '--sticky-bg': t.stickyBar?.bg, '--sticky-text': t.stickyBar?.text,
     '--nav-bg': t.navBar?.bg, '--nav-icon': t.navBar?.icon, '--nav-active': t.navBar?.active,
     '--mod-font': `'${m.font || 'Poppins'}'`, '--mod-weight': m.weight || 600, '--mod-title': m.titleColor,

@@ -59,6 +59,8 @@ function structure() {
       <div class="lbl" style="margin-top:6px">Barre de navigation (en bas)</div>
       ${toggle('theme.navBar.enabled', 'Afficher la barre')}${toggle('theme.navBar.logoInside', 'Afficher le logo dans la barre')}
       <div class="grid3">${color('theme.navBar.bg', 'Couleur de fond')}${color('theme.navBar.icon', 'Couleur des icônes')}${color('theme.navBar.active', 'Couleur icône active')}</div></div>
+    <div class="card"><h3>Bouton de langue</h3>
+      ${choices('theme.langButton.shape', [{ v: 'square', label: 'Carré' }, { v: 'round', label: 'Rond' }], { label: 'Forme du bouton du drapeau' })}</div>
     <div class="card"><h3>Filtre sur l’image de fond</h3>
       ${choices('theme.filter.type', [{ v: 'none', label: 'Aucun filtre' }, { v: 'full', label: 'Filtre plein' }])}
       ${S.D.theme.filter.type !== 'none' ? `<div class="grid2">${color('theme.filter.color', 'Couleur du filtre')}${text('theme.filter.opacity', 'Opacité (%)', { type: 'number', kind: 'num', min: 0, max2: 100 })}</div>` : ''}</div>`;

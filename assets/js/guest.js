@@ -175,7 +175,7 @@ function homeView() {
 }
 
 function topbar() {
-  return `<div class="topbar"><button class="round" data-act="lang" aria-label="${esc(U('language'))}">${flag(lang, 30)}</button>
+  return `<div class="topbar"><button class="round lang" data-act="lang" aria-label="${esc(U('language'))}">${flag(lang, 30)}</button>
     ${B.theme.menu?.enabled !== false ? `<button class="round" data-act="menu" aria-label="Menu">${icon('menu-2')}</button>` : ''}</div>`;
 }
 
