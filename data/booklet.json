@@ -14,7 +14,7 @@
    "de": "Casa Di Lozari",
    "en": "Casa Di Lozari",
    "es": "Casa Di Lozari",
-   "fr": "Casa Di Lozari G3",
+   "fr": "Casa Di Lozari ",
    "it": "Casa Di Lozari"
   },
   "subtitle": {},
@@ -150,9 +150,6 @@
    "bgEnabled": false,
    "bg": "#142238"
   },
-  "langButton": {
-   "shape": "square"
-  },
   "menu": {
    "enabled": true,
    "bg": "#142238",
@@ -240,6 +237,9 @@
    "markerColor": "#142238",
    "homeColor": "#7a5a22",
    "tiles": "osm"
+  },
+  "langButton": {
+   "shape": "round"
   }
  },
  "welcome": {
@@ -2495,5 +2495,5 @@
  "backend": {
   "url": ""
  },
- "updatedAt": "2026-10-31T12:22:18.838Z"
+ "updatedAt": "2026-11-01T08:24:56.399Z"
 }
